@@ -127,3 +127,5 @@ dmypy.json
 .vscode/
 
 static/
+_examples/
+_static/

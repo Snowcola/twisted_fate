@@ -1,0 +1,29 @@
+[tool.poetry]
+name = "runeterra_api"
+version = "0.1.0"
+description = "An api wrapper around the Legends of Runterra client API and deck encoder"
+authors = ["Anthony Keelan <anthony.keelan@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+repository = "https://github.com/Snowcola/runeterra"
+classifiers = [
+        "Programming Language :: Python :: 3.6",
+        "Programming Language :: Python :: 3.7",
+        "License :: OSI Approved :: MIT License",
+        "Operating System :: OS Independent",
+        'Intended Audience :: Developers',
+    ]
+include = ["data/**/*.json"]
+
+[tool.poetry.dependencies]
+python = "^3.6"
+requests = "^2.22"
+
+
+[tool.poetry.dev-dependencies]
+pytest = "^3.0"
+pylint = "*"
+
+[build-system]
+requires = ["poetry>=0.12"]
+build-backend = "poetry.masonry.api"

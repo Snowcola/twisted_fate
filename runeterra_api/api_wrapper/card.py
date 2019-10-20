@@ -1,0 +1,116 @@
+from pathlib import Path
+from .utils import read_json_file, get_card_set_online
+
+
+try:
+    cards_file = Path("./data/data/set1-en_us.json")
+    cards = read_json_file(cards_file)
+except:  
+    cards = get_card_set_online(1)
+
+
+class Card:
+    def __init__(self, **kwargs):
+        self.id = kwargs.get("CardID", None)
+        self.cardCode = kwargs.get("CardCode", None)
+        self.card_set = int(self.cardCode[:2])
+        self.count = int(kwargs.get("count", 1))
+        self._card_data = self.card_info()
+
+        self.image_path = f"/img/cards/{self.cardCode}.png"
+        self.image_path_full = f"./static/img/cards/{self.cardCode}-full.png"
+
+        self.image_online = f"https://raw.githubusercontent.com/pedrofracassi/lor-bundles/master/set{self.card_set}/en_us/img/cards/{self.cardCode}.png"
+        self.image_online_full = self.image_online.replace(".png", "-full.png")
+
+    def card_info(self):
+        return [card for card in cards if card["cardCode"] == self.cardCode][0]
+
+    @property
+    def name(self):
+        return self._card_data["name"]
+
+    @property
+    def description(self):
+        return self._card_data["descriptionRaw"]
+    
+    @property
+    def descriptionFancy(self):
+        return self._card_data["description"]
+    
+    @property
+    def keywords(self):
+        return self._card_data["keywords"]
+    
+    @property
+    def keywordRefs(self):
+        return self._card_data["keywordRefs"]
+
+    @property
+    def cost(self):
+        return self._card_data["cost"]
+
+    @property
+    def health(self):
+        return self._card_data["health"]
+
+    @property
+    def attack(self):
+        return self._card_data["attack"]
+    
+    @property
+    def associatedCardRefs(self):
+        return self._card_data["associatedCardRefs"]
+    
+    @property
+    def associatedCards(self):
+        return self._card_data["associatedCards"]
+    
+    @property
+    def collectible(self):
+        return self._card_data["collectible"]
+    
+    @property
+    def flavorText(self):
+        return self._card_data["flavorText"]
+    
+    @property
+    def rarity(self):
+        return self._card_data["rarity"]
+    
+    @property
+    def rarityRef(self):
+        return self._card_data["rarityRef"]
+    
+    @property
+    def region(self):
+        return self._card_data["region"]
+    
+    @property
+    def spellSpeed(self):
+        return self._card_data["spellSpeed"]
+    
+    @property
+    def spellSpeedRef(self):
+        return self._card_data["spellSpeedRef"]
+    
+    @property
+    def cardSubtype(self):
+        return self._card_data["subtype"]
+    
+    @property
+    def superType(self):
+        return self._card_data["supertype"]
+    
+    @property
+    def cardType(self):
+        return self._card_data["type"]
+
+    def __str__(self):
+        return f"({self.cost}) {self.name}: {self.description}"
+
+    def __repr__(self):
+        return f"Card({self.cardCode}, Name: {self.name}, Cost: {self.cost})"
+
+    def __hash__(self):  # allow using cards as dict keys
+        return hash(self.cardCode)

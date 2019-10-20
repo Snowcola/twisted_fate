@@ -1,0 +1,259 @@
+{
+  "keywords": [
+    {
+      "description": "Completely removed from the game. Doesn't cause Last Breath and can't be revived.",
+      "name": "Obliterate",
+      "nameRef": "Obliterate"
+    },
+    {
+      "description": "A spell-like effect created and cast by unit.",
+      "name": "Skill",
+      "nameRef": "Skill"
+    },
+    {
+      "description": "While attacking, it strikes both before AND at the same time as its blocker.",
+      "name": "Double Attack",
+      "nameRef": "Double Strike"
+    },
+    {
+      "description": "Lowest Power, with ties broken by lowest Health then lowest Cost",
+      "name": "Weakest",
+      "nameRef": "Weakest"
+    },
+    {
+      "description": "Can only be blocked by an Elusive unit.",
+      "name": "Elusive",
+      "nameRef": "Elusive"
+    },
+    {
+      "description": "Heal our Nexus for the amount of damage dealt",
+      "name": "Drain",
+      "nameRef": "Drain"
+    },
+    {
+      "description": "Remove a unit from combat. It can't attack or block for the rest of the round.",
+      "name": "Stun",
+      "nameRef": "Stun"
+    },
+    {
+      "description": "Attaches to another card, trapping it. When the trapped card is drawn, perform the effect.",
+      "name": "Trap",
+      "nameRef": "Autoplay"
+    },
+    {
+      "description": " ",
+      "name": "Piltover & Zaun",
+      "nameRef": "PiltoverZaun"
+    },
+    {
+      "description": " ",
+      "name": "Demacia",
+      "nameRef": "Demacia"
+    },
+    {
+      "description": " ",
+      "name": "Shadow Isles",
+      "nameRef": "ShadowIsles"
+    },
+    {
+      "description": "Inflicts damage beyond what would kill the target(s) to the enemy Nexus.",
+      "name": "Overwhelm",
+      "nameRef": "SpellOverwhelm"
+    },
+    {
+      "description": "Negates the next damage the unit would take. Lasts one round.",
+      "name": "Barrier",
+      "nameRef": "Barrier"
+    },
+    {
+      "description": "A Captured card is removed from the game. It returns when the Capturing unit leaves play.",
+      "name": "Capture",
+      "nameRef": "Capture"
+    },
+    {
+      "description": "Set a unit's Power to 0 this round (it can be changed after).",
+      "name": "Frostbite",
+      "nameRef": "Frostbite"
+    },
+    {
+      "description": "Burst spells resolve instantly. The enemy can't act before it finishes.",
+      "name": "Burst",
+      "nameRef": "Burst"
+    },
+    {
+      "description": "Fleeting cards discard from hand when the round ends.",
+      "name": "Fleeting",
+      "nameRef": "Fleeting"
+    },
+    {
+      "description": "Fast spells can be played at any time, but allow the opponent to respond.",
+      "name": "Fast",
+      "nameRef": "Fast"
+    },
+    {
+      "description": "Excess damage I deal to my blocker is dealt to the enemy Nexus.",
+      "name": "Overwhelm",
+      "nameRef": "Overwhelm"
+    },
+    {
+      "description": "While attacking, strikes before its blocker.",
+      "name": "Quick Attack",
+      "nameRef": "Quick Strike"
+    },
+    {
+      "description": "Takes 1 less damage from all sources.",
+      "name": "Tough",
+      "nameRef": "Tough"
+    },
+    {
+      "description": "Return a unit to hand and remove all effects applied to it.",
+      "name": "Recall",
+      "nameRef": "Recall"
+    },
+    {
+      "description": " ",
+      "name": "Ionia",
+      "nameRef": "Ionia"
+    },
+    {
+      "description": "Heals fully at the start of each round.",
+      "name": "Regeneration",
+      "nameRef": "Regeneration"
+    },
+    {
+      "description": "Damage this unit deals heals its Nexus that amount.",
+      "name": "Lifesteal",
+      "nameRef": "Lifesteal"
+    },
+    {
+      "description": "You're Enlightened when you have 10 max mana.",
+      "name": "Enlightened",
+      "nameRef": "Enlightened"
+    },
+    {
+      "description": "Slow spells can be cast outside of combat and other casting. The enemy can respond.",
+      "name": "Slow",
+      "nameRef": "Slow"
+    },
+    {
+      "description": " ",
+      "name": "Noxus",
+      "nameRef": "Noxus"
+    },
+    {
+      "description": "This unit dies when it strikes or when the round ends.",
+      "name": "Ephemeral",
+      "nameRef": "Ephemeral"
+    },
+    {
+      "description": " ",
+      "name": "Freljord",
+      "nameRef": "Freljord"
+    },
+    {
+      "description": "These abilities take effect when the unit dies.",
+      "name": "Last Breath",
+      "nameRef": "Last Breath"
+    },
+    {
+      "description": "Can choose which enemy unit blocks.",
+      "name": "Challenger",
+      "nameRef": "Challenger"
+    },
+    {
+      "description": "These abilities trigger when you resolve a spell.",
+      "name": "Imbue",
+      "nameRef": "Imbue"
+    },
+    {
+      "description": "Can only be blocked by enemies with 3 or more Attack.",
+      "name": "Fearsome",
+      "nameRef": "Fearsome"
+    },
+    {
+      "description": " ",
+      "name": "Can't Block",
+      "nameRef": "CantBlock"
+    }
+  ],
+  "regions": [
+    {
+      "abbreviation": "NE",
+      "iconAbsolutePath": "http://dd.b.pvp.net/core/en_us/img/regions/icon-neutral.png",
+      "name": "Neutral",
+      "nameRef": "Neutral"
+    },
+    {
+      "abbreviation": "NX",
+      "iconAbsolutePath": "http://dd.b.pvp.net/core/en_us/img/regions/icon-noxus.png",
+      "name": "Noxus",
+      "nameRef": "Noxus"
+    },
+    {
+      "abbreviation": "DE",
+      "iconAbsolutePath": "http://dd.b.pvp.net/core/en_us/img/regions/icon-demacia.png",
+      "name": "Demacia",
+      "nameRef": "Demacia"
+    },
+    {
+      "abbreviation": "FR",
+      "iconAbsolutePath": "http://dd.b.pvp.net/core/en_us/img/regions/icon-freljord.png",
+      "name": "Freljord",
+      "nameRef": "Freljord"
+    },
+    {
+      "abbreviation": "SI",
+      "iconAbsolutePath": "http://dd.b.pvp.net/core/en_us/img/regions/icon-shadowisles.png",
+      "name": "Shadow Isles",
+      "nameRef": "ShadowIsles"
+    },
+    {
+      "abbreviation": "IO",
+      "iconAbsolutePath": "http://dd.b.pvp.net/core/en_us/img/regions/icon-ionia.png",
+      "name": "Ionia",
+      "nameRef": "Ionia"
+    },
+    {
+      "abbreviation": "PZ",
+      "iconAbsolutePath": "http://dd.b.pvp.net/core/en_us/img/regions/icon-piltoverzaun.png",
+      "name": "Piltover & Zaun",
+      "nameRef": "PiltoverZaun"
+    }
+  ],
+  "spellSpeeds": [
+    {
+      "name": "Slow",
+      "nameRef": "Slow"
+    },
+    {
+      "name": "Burst",
+      "nameRef": "Burst"
+    },
+    {
+      "name": "Fast",
+      "nameRef": "Fast"
+    }
+  ],
+  "rarities": [
+    {
+      "name": "Common",
+      "nameRef": "Common"
+    },
+    {
+      "name": "Rare",
+      "nameRef": "Rare"
+    },
+    {
+      "name": "Epic",
+      "nameRef": "Epic"
+    },
+    {
+      "name": "Champion",
+      "nameRef": "Champion"
+    },
+    {
+      "name": "None",
+      "nameRef": "None"
+    }
+  ]
+}
