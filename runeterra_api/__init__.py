@@ -1,5 +1,6 @@
 name = "runeterra_api"
-from runeterra_api.api_wrapper.deck import Deck
-from runeterra_api.api_wrapper.card import Card
-from runeterra_api.api_wrapper import client_api
-from runeterra_api.deck_coder.deckCoder import DeckCode
+__version__ = "0.1.0"
+from .api_wrapper.deck import Deck
+from .api_wrapper.card import Card
+from .api_wrapper import client_api
+from .deck_coder.deckCoder import DeckCode

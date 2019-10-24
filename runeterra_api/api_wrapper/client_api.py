@@ -11,42 +11,33 @@ formatter = logging.Formatter("%(asctime)s - %(name)s::%(levelname)s | %(message
 ch.setFormatter(formatter)
 logger.addHandler(ch)
 
-api_key = os.getenv("API_KEY", "NO KEY PROVIDED")
-port = os.getenv("PORT", 21337)
-baseurl = f"http://localhost:{port}"
 
-logger.info(api_key)
-logger.info(f"Connecting to Legends of Runterra at {baseurl}")
+class LoRClient:
+    
+    baseurl = f"http://localhost:"
 
+    def __init__(self, api_key, port):
+        self.api_key = api_key
+        self.port = port
+        self.baseurl = self.baseurl + port
 
-def get_endpoint(endpoint):
-    url = f"{baseurl}/{endpoint}"
-    logger.info(f"Getting {endpoint}")
-    response = requests.get(url)
-    status = f"{response.status_code} - {response.ok}"
-    logger.info(f"Endpoint: {endpoint} response {status}")
-    return response.json()
+    def get_endpoint(self, endpoint):
+        url = f"{self.baseurl}/{endpoint}"
+        logger.info(f"Getting {endpoint}")
+        response = requests.get(url)
+        status = f"{response.status_code} - {response.ok}"
+        logger.info(f"Endpoint: {endpoint} response {status}")
+        return response.json()
 
+    def decklist(self) -> dict:
+        r = self.get_endpoint("static-decklist")
+        deck = Deck(**r)
+        return deck
 
-def decklist() -> dict:
-    r = get_endpoint("static-decklist")
-    deck = Deck(**r)
-    return deck
+    def card_positions(self) -> dict:
+        r = self.get_endpoint("positional-rectangles")
+        return r
 
-
-def card_positions() -> dict:
-    r = get_endpoint("positional-rectangles")
-    return r
-
-
-def game_status() -> dict:
-    r = get_endpoint("game-result")
-    return r
-
-
-if __name__ == "__main__":
-    # requests.get("http://localhost:21337/static-decklist")
-    print(decklist())
-    print(card_positions())
-    print(game_status())
-
+    def game_status(self) -> dict:
+        r = self.get_endpoint("game-result")
+        return r
