@@ -5,7 +5,8 @@ description = "An api wrapper around the Legends of Runterra Client API with dec
 authors = ["Anthony Keelan <anthony.keelan@gmail.com>"]
 license = "MIT"
 readme = "README.md"
-repository = "https://github.com/Snowcola/runeterra"
+repository = "https://github.com/Snowcola/twisted_fate"
+homepage = "https://github.com/Snowcola/twisted_fate"
 classifiers = [
         "Programming Language :: Python :: 3.6",
         "Programming Language :: Python :: 3.7",

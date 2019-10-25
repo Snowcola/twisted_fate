@@ -1,4 +1,4 @@
-# Runeterra-api
+# twisted_fate
 
 
 A python api wrapper to for riot's Legends of Runterra client-api including a port of [Riot Games C# implementation of the deck encoder/decoder](https://github.com/RiotGames/LoRDeckCodes)
@@ -16,7 +16,7 @@ pip install twisted_fate
 ```python
 from twisted_fate import Deck
 
-draven_deck = Deck.decode(("CEBAGAIDCQRSOCQBAQAQYDISDQTCOKBNGQAACAIBAMFQ")
+draven_deck = Deck.decode("CEBAGAIDCQRSOCQBAQAQYDISDQTCOKBNGQAACAIBAMFQ")
 
 # results
 print(deck.cards)
