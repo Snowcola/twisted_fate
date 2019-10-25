@@ -7,7 +7,7 @@ logger = logging.getLogger("Runterra")
 logger.setLevel(logging.DEBUG)
 ch = logging.StreamHandler()
 ch.setLevel(logging.DEBUG)
-formatter = logging.Formatter("%(asctime)s - %(name)s::%(levelname)s | %(message)s")
+formatter = logging.Formatter("%(name)s :: %(levelname)s | %(message)s")
 ch.setFormatter(formatter)
 logger.addHandler(ch)
 
@@ -16,7 +16,7 @@ class LoRClient:
     
     baseurl = f"http://localhost:"
 
-    def __init__(self, api_key, port):
+    def __init__(self, api_key, port=21337):
         self.api_key = api_key
         self.port = port
         self.baseurl = self.baseurl + port
@@ -29,15 +29,17 @@ class LoRClient:
         logger.info(f"Endpoint: {endpoint} response {status}")
         return response.json()
 
-    def decklist(self) -> dict:
+    def current_decklist(self) -> dict:
         r = self.get_endpoint("static-decklist")
         deck = Deck(**r)
         return deck
 
     def card_positions(self) -> dict:
-        r = self.get_endpoint("positional-rectangles")
-        return r
+        raise(NotImplementedError)
+        # r = self.get_endpoint("positional-rectangles")
+        # return r
 
     def game_status(self) -> dict:
-        r = self.get_endpoint("game-result")
-        return r
+        raise(NotImplementedError)
+        # r = self.get_endpoint("game-result")
+        # return r

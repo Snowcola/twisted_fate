@@ -1,7 +1,7 @@
 [tool.poetry]
-name = "runeterra_api"
+name = "twisted_fate"
 version = "0.1.0"
-description = "An api wrapper around the Legends of Runterra client API and deck encoder"
+description = "An api wrapper around the Legends of Runterra Client API with deck encoder implementation"
 authors = ["Anthony Keelan <anthony.keelan@gmail.com>"]
 license = "MIT"
 readme = "README.md"
