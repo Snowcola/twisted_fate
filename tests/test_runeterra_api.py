@@ -1,11 +1,11 @@
-from runeterra_api import __version__
+from twisted_fate import __version__
 
 
 def test_version():
     assert __version__ == '0.1.0'
 
 def test_deck():
-    import runeterra_api as api
+    import twisted_fate as api
 
     deck = {
         "DeckCode": "CEBAGAIDCQRSOCQBAQAQYDISDQTCOKBNGQAACAIBAMFQ",

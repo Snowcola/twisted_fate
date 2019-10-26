@@ -129,3 +129,4 @@ dmypy.json
 static/
 _examples/
 _static/
+scratch.py

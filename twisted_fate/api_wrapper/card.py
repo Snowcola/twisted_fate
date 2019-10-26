@@ -1,18 +1,18 @@
 from pathlib import Path
+import json
 from .utils import read_json_file, get_card_set_online
-
 
 try:
     cards_file = Path("./data/data/set1-en_us.json")
     cards = read_json_file(cards_file)
-except:  
+except:
     cards = get_card_set_online(1)
 
 
 class Card:
-    def __init__(self, **kwargs):
+    def __init__(self, card=None, **kwargs):
         self.id = kwargs.get("CardID", None)
-        self.cardCode = kwargs.get("CardCode", None)
+        self.cardCode = kwargs.get("CardCode", card)
         self.card_set = int(self.cardCode[:2])
         self.count = int(kwargs.get("count", 1))
         self._card_data = self.card_info()
@@ -33,15 +33,15 @@ class Card:
     @property
     def description(self):
         return self._card_data["descriptionRaw"]
-    
+
     @property
     def descriptionFancy(self):
         return self._card_data["description"]
-    
+
     @property
     def keywords(self):
         return self._card_data["keywords"]
-    
+
     @property
     def keywordRefs(self):
         return self._card_data["keywordRefs"]
@@ -57,54 +57,67 @@ class Card:
     @property
     def attack(self):
         return self._card_data["attack"]
-    
+
     @property
     def associatedCardRefs(self):
         return self._card_data["associatedCardRefs"]
-    
+
     @property
     def associatedCards(self):
         return self._card_data["associatedCards"]
-    
+
     @property
     def collectible(self):
         return self._card_data["collectible"]
-    
+
     @property
     def flavorText(self):
         return self._card_data["flavorText"]
-    
+
     @property
     def rarity(self):
         return self._card_data["rarity"]
-    
+
     @property
     def rarityRef(self):
         return self._card_data["rarityRef"]
-    
+
     @property
     def region(self):
         return self._card_data["region"]
-    
+
     @property
     def spellSpeed(self):
         return self._card_data["spellSpeed"]
-    
+
     @property
     def spellSpeedRef(self):
         return self._card_data["spellSpeedRef"]
-    
+
     @property
-    def cardSubtype(self):
+    def subType(self):
         return self._card_data["subtype"]
-    
+
     @property
     def superType(self):
         return self._card_data["supertype"]
-    
+
     @property
     def cardType(self):
         return self._card_data["type"]
+
+    def serialize(self, props=None, as_dict=False):
+        if not props:
+            props = [
+                "name", "description", "cardCode", "keywords", "cost",
+                "health", "attack", "flavorText", "rarity", "rarityRef",
+                "spellSpeed", "spellSpeedRef", "subType", "superType",
+                "cardType"
+            ]
+        #s = {k: v for (k, v) in self.__dict__.items() if k in props}
+        s = {k: v for (k, v) in self._card_data.items() if k in props}
+
+        return s if as_dict else json.dumps(s)
 
     def __str__(self):
         return f"({self.cost}) {self.name}: {self.description}"

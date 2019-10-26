@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "twisted_fate"
 version = "0.1.0"
-description = "An api wrapper around the Legends of Runterra Client API with deck encoder implementation"
+description = "An api wrapper around the Legends of Runeterra Client API with deck encoder implementation"
 authors = ["Anthony Keelan <anthony.keelan@gmail.com>"]
 license = "MIT"
 readme = "README.md"
@@ -12,7 +12,7 @@ classifiers = [
         "Programming Language :: Python :: 3.7",
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
-        'Intended Audience :: Developers',
+        "Intended Audience :: Developers",
     ]
 include = ["data/**/*.json"]
 
@@ -24,6 +24,7 @@ requests = "^2.22"
 [tool.poetry.dev-dependencies]
 pytest = "^3.0"
 pylint = "*"
+yapf = "^0.28.0"
 
 [build-system]
 requires = ["poetry>=0.12"]

@@ -18,11 +18,14 @@ class Deck:
         self.deck_code = kwargs.get("DeckCode", None)
         self.cards = []
 
+        if self.deck_code:
+            self.decode(self.deck_code, instance=self, in_place=True)
+
         for card, amount in self._cards.items():
             self.cards.append((Card(CardCode=card, count=amount)))
-        
+
         if not self.cards and self.deck_code:
-            pass # TODO: generate cards list from deck code
+            pass  # TODO: generate cards list from deck code
 
     def encode(self):
         if not self.deck_code:
@@ -30,8 +33,11 @@ class Deck:
         return self
 
     @classmethod
-    def decode(cls, deck_code):
+    def decode(cls, deck_code, instance=None, in_place=False):
         cards = DeckCode.decode_deck(deck_code)
+        if in_place:
+            instance._cards = cards
+            return None
         return cls(CardsInDeck=cards)
 
     def to_deck_code(self):
@@ -40,6 +46,10 @@ class Deck:
         if not self.deck_code:
             self.encode()
         return self.deck_code
+
+    def serialize(self):
+        s = [c.serialize(as_dict=True) for c in self.cards]
+        return json.dumps(s)
 
     def __str__(self):
         response = ["Decklist:", "--------------"]
