@@ -109,14 +109,26 @@ class Card:
     def serialize(self, props=None, as_dict=False):
         if not props:
             props = [
-                "name", "description", "cardCode", "keywords", "cost",
-                "health", "attack", "flavorText", "rarity", "rarityRef",
-                "spellSpeed", "spellSpeedRef", "subType", "superType",
-                "cardType"
+                "name",
+                "description",
+                "cardCode",
+                "keywords",
+                "cost",
+                "health",
+                "attack",
+                "flavorText",
+                "rarity",
+                "rarityRef",
+                "spellSpeed",
+                "spellSpeedRef",
+                "subtype",
+                "supertype",
+                "type",
             ]
+
         #s = {k: v for (k, v) in self.__dict__.items() if k in props}
         s = {k: v for (k, v) in self._card_data.items() if k in props}
-
+        s["count"] = self.count
         return s if as_dict else json.dumps(s)
 
     def __str__(self):

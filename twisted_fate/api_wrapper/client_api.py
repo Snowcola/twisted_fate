@@ -19,7 +19,7 @@ class LoRClient:
     def __init__(self, api_key, port=21337):
         self.api_key = api_key
         self.port = port
-        self.baseurl = self.baseurl + port
+        self.baseurl = f"{self.baseurl}{port}"
 
     def get_endpoint(self, endpoint):
         url = f"{self.baseurl}/{endpoint}"
