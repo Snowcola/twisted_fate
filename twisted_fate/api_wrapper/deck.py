@@ -4,6 +4,7 @@ import json
 from .card import Card
 from ..deck_coder.deckCoder import DeckCode
 from .utils import read_json_file, get_lor_globals
+from collections import Counter
 
 try:
     globals_file = Path("./data/data/globals-en_us.json")
@@ -14,15 +15,16 @@ except:
 
 class Deck:
     def __init__(self, **kwargs):
-        self._cards = kwargs.get("CardsInDeck", kwargs.get("cards", None))
+        self._cards = kwargs.get("CardsInDeck", kwargs.get("cards", []))
         self.deck_code = kwargs.get("DeckCode", None)
         self.cards = []
 
         if self.deck_code:
             self.decode(self.deck_code, instance=self, in_place=True)
 
-        for card, amount in self._cards.items():
-            self.cards.append((Card(CardCode=card, count=amount)))
+        if self._cards:
+            for card, amount in self._cards.items():
+                self.cards.append((Card(CardCode=card, count=amount)))
 
         if not self.cards and self.deck_code:
             pass  # TODO: generate cards list from deck code
@@ -47,9 +49,30 @@ class Deck:
             self.encode()
         return self.deck_code
 
+    def regions(self):
+        card_regions = [card.region for card in self.cards]
+        region_count = Counter(card_regions)
+        card_regions = region_count.most_common(2)
+        regions = [x[0] for x in card_regions]
+        return regions
+
     def serialize(self):
         s = [c.serialize(as_dict=True) for c in self.cards]
         return json.dumps(s)
+
+    def add_card(self, card: Card):
+        self.cards.append(card)
+        self._cards.append(card.cardCode)
+
+    def remove_card(self, card: Card):
+        applicableCard = filter(lambda x: x.cardCode == card.cardCode,
+                                self.cards)
+        if applicableCard:
+            applicableCard = applicableCard[0]
+            applicableCard.count -= 1
+            if applicableCard.count == 0:
+                self.cards.remove(applicableCard)
+                self._cards.remove(applicableCard.cardCode)
 
     def __str__(self):
         response = ["Decklist:", "--------------"]
