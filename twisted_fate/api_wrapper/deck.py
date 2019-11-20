@@ -56,6 +56,10 @@ class Deck:
         regions = [x[0] for x in card_regions]
         return regions
 
+    def champions(self):
+        champs = filter(lambda x: x.isChampion, self.cards)
+        return [champ.name for champ in champs]
+
     def serialize(self):
         s = [c.serialize(as_dict=True) for c in self.cards]
         return json.dumps(s)

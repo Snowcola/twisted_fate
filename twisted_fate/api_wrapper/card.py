@@ -31,6 +31,10 @@ class Card:
         return self._card_data["name"]
 
     @property
+    def isChampion(self):
+        return self.superType == "Champion"
+
+    @property
     def description(self):
         return self._card_data["descriptionRaw"]
 
