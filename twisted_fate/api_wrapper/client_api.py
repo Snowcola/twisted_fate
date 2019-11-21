@@ -3,7 +3,7 @@ import requests
 import logging
 import json
 from .deck import Deck
-from .active_game import GameFrame
+from .active_game import GameFrame, ExpeditionState
 
 logger = logging.getLogger("TwistedFateLib")
 logger.setLevel(logging.DEBUG)
@@ -52,12 +52,12 @@ class LoRClient:
         logger.info(f"Endpoint: {endpoint} response {status}")
         return response.json()
 
-    def current_decklist(self) -> dict:
+    def current_decklist(self) -> Deck:
         r = self.get_endpoint("static-decklist")
         deck = Deck(**r)
         return deck
 
-    def card_positions(self) -> dict:
+    def card_positions(self) -> GameFrame:
         r = self.get_endpoint("positional-rectangles")
         if r:
             logging.debug(r)
@@ -70,3 +70,9 @@ class LoRClient:
         if r:
             game = GameStatus(r['GameID'], r["LocalPlayerWon"])
             return game
+
+    def expeditions_state(self) -> ExpeditionState:
+        r = self.get_endpoint("expeditions-state")
+        if r:
+            exp = ExpeditionState(**r)
+            return exp

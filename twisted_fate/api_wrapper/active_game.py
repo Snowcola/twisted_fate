@@ -56,6 +56,7 @@ class Game:
         self.player_cards_used = Deck()
         self.opponent_cards_used = Deck()
         self.initial_player_deck = self.current_player_deck = player_deck
+        self.result = None
 
     def process_frame(self, frame):
         for rect in frame.player_rects:
@@ -74,3 +75,18 @@ class Game:
                 current_card = Card(CardID=rect.card_id,
                                     CardCode=rect.card_code)
                 self.opponent_cards_used.add_card(current_card)
+
+
+class ExpeditionState:
+    def __init__(self, **kwargs):
+        self.is_active = kwargs.get("IsActive", False)
+        self.state = kwargs.get("State", "Inactive")
+        self.record = kwargs.get("Record", [])
+        self.draft_picks = kwargs.get("DraftPicks", [])
+        self.deck = kwargs.get("Deck")  # TODO: convert to Deck instance
+        self.games_played = kwargs.get("Games", 0)
+        self.wins = kwargs.get("Wins", 0)
+        self.losses = kwargs.get("Losses", 0)
+
+    def __repr__(self):
+        return f"Expedition(State: {self.state}, Games Played: {self.games_played})"
