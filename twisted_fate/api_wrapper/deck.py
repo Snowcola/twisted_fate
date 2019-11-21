@@ -18,6 +18,9 @@ class Deck:
         self._cards = kwargs.get("CardsInDeck", kwargs.get("cards", []))
         self.deck_code = kwargs.get("DeckCode", None)
         self.cards = []
+        self.deck_id = kwargs.get("deck_id", None)
+        self.wins = kwargs.get("wins", 0)
+        self.losses = kwargs.get("losses", 0)
 
         if self.deck_code:
             self.decode(self.deck_code, instance=self, in_place=True)
@@ -60,9 +63,18 @@ class Deck:
         champs = filter(lambda x: x.isChampion, self.cards)
         return [champ.name for champ in champs]
 
-    def serialize(self):
-        s = [c.serialize(as_dict=True) for c in self.cards]
-        return json.dumps(s)
+    def serialize(self, as_dict=False):
+        deck = {}
+        deck["cards"] = [c.serialize(as_dict=True) for c in self.cards]
+        deck["id"] = self.deck_id
+        deck["champions"] = self.champions()
+        deck["regions"] = self.regions()
+        deck["code"] = self.to_deck_code()
+        deck["wins"] = self.wins
+        deck["losses"] = self.losses
+        if as_dict:
+            return deck
+        return json.dumps(deck)
 
     def add_card(self, card: Card):
         self.cards.append(card)
