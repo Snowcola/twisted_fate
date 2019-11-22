@@ -26,6 +26,12 @@ class Card:
     def card_info(self):
         return [card for card in cards if card["cardCode"] == self.cardCode][0]
 
+    def add_copy(self):
+        self.count += 1
+
+    def remove_copy(self):
+        self.count -= 1
+
     @property
     def name(self):
         return self._card_data["name"]

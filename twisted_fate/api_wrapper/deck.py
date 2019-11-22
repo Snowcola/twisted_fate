@@ -77,8 +77,14 @@ class Deck:
         return json.dumps(deck)
 
     def add_card(self, card: Card):
-        self.cards.append(card)
-        self._cards.append(card.cardCode)
+        applicableCard = list(
+            filter(lambda x: x.cardCode == card.cardCode, self.cards))
+        if applicableCard:
+            applicableCard = applicableCard[0]
+            applicableCard.count += 1
+        else:
+            self.cards.append(card)
+            self._cards.append(card.cardCode)
 
     def remove_card(self, card: Card):
         applicableCard = filter(lambda x: x.cardCode == card.cardCode,
