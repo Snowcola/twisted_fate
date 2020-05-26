@@ -2,7 +2,8 @@ from twisted_fate import __version__
 
 
 def test_version():
-    assert __version__ == '0.1.0'
+    assert __version__ == '0.1.3'
+
 
 def test_deck():
     import twisted_fate as api

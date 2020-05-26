@@ -1,12 +1,19 @@
 from pathlib import Path
 import json
 from .utils import read_json_file, get_card_set_online
+data_dir = Path(__file__).parent.parent / "data/data"
+print(data_dir.exists())
+print(Path(".").absolute())
+print(Path("./data/data/set1-en_us.json").exists())
 
 try:
-    cards_file = Path("./data/data/set1-en_us.json")
-    cards = read_json_file(cards_file)
-except:
-    cards = get_card_set_online(1)
+    cards_files = data_dir.glob("set*.json")
+    cards = []
+    for f in cards_files:
+        f_json = read_json_file(f)
+        cards += f_json
+except Exception as e:
+    print("Could not load card data")
 
 
 class Card:

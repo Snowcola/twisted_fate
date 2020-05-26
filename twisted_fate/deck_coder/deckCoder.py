@@ -2,7 +2,7 @@
 
 from base64 import b32decode, b32encode
 
-MAX_KNOWN_VERSION = 1
+MAX_KNOWN_VERSION = 2
 
 
 class Base32:
@@ -34,8 +34,24 @@ class Base32:
         return b32String
 
 
-faction_code_to_id = {"DE": 0, "FR": 1, "IO": 2, "NX": 3, "PZ": 4, "SI": 5}
-id_to_faction_code = {0: "DE", 1: "FR", 2: "IO", 3: "NX", 4: "PZ", 5: "SI"}
+faction_code_to_id = {
+    "DE": 0,
+    "FR": 1,
+    "IO": 2,
+    "NX": 3,
+    "PZ": 4,
+    "SI": 5,
+    "BW": 6
+}
+id_to_faction_code = {
+    0: "DE",
+    1: "FR",
+    2: "IO",
+    3: "NX",
+    4: "PZ",
+    5: "SI",
+    6: "BW"
+}
 
 
 class DeckCode:
@@ -91,7 +107,8 @@ class DeckCode:
 
             temp_list = card_list[:]
             for card in temp_list:
-                current_set_num, current_faction, _ = DeckCode.parse_card_code(card)
+                current_set_num, current_faction, _ = DeckCode.parse_card_code(
+                    card)
                 if current_set_num == set_num and current_faction == faction:
                     faction_set.append(card)
                     card_list.remove(card)
@@ -154,7 +171,8 @@ class DeckCode:
         byte_list = byte_list[1:]
 
         if version > MAX_KNOWN_VERSION:
-            raise ValueError("Please update to the latest version of runeterra-encoder")
+            raise ValueError(
+                "Please update to the latest version of twisted_fate")
 
         for i in range(3, 0, -1):
             numGroupOfs = VarIntTransformer.popVarInt(byte_list)
@@ -270,15 +288,18 @@ class VarIntTransformer:
 
             current_card_code = cardList[0]
             current_set_num, current_faction_code, _ = DeckCode.parse_card_code(
-                current_card_code
-            )
+                current_card_code)
             current_faction_num = faction_code_to_id[current_faction_code]
 
             _bytes = [*_bytes, *VarIntTransformer.getVarInt(current_set_num)]
-            _bytes = [*_bytes, *VarIntTransformer.getVarInt(current_faction_num)]
+            _bytes = [
+                *_bytes, *VarIntTransformer.getVarInt(current_faction_num)
+            ]
 
             for card in cardList:
                 sequenceNumber = card[4:]
-                _bytes = [*_bytes, *VarIntTransformer.getVarInt(sequenceNumber)]
+                _bytes = [
+                    *_bytes, *VarIntTransformer.getVarInt(sequenceNumber)
+                ]
 
         return _bytes
