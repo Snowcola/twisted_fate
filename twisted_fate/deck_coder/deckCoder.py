@@ -22,15 +22,10 @@ class Base32:
     def add_padding(b32String):
         length = len(b32String)
         padding = 0
-        """
-        while length % 8 != 0:
-            result = length % 8
-            padding += result
-            length += result
-        """
-        padding = 8 - (length % 8)
 
-        b32String += "=" * padding
+        if (length % 8 > 0):
+            padding = 8 - (length % 8)
+            b32String += "=" * padding
         return b32String
 
 
