@@ -138,8 +138,8 @@ class DeckCode:
                     print(f"code is not digit: {char}")
                     return False
 
-            faction = faction_code_to_id.get(code[2:4], False)
-            if not faction:
+            faction = faction_code_to_id.get(code[2:4], -1)
+            if faction < 0:
                 print(f"faction code not in faction code list: {code[2:4]}")
                 return False
 
