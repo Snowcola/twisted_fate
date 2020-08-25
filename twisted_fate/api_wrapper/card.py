@@ -2,9 +2,11 @@ from pathlib import Path
 import json
 from .utils import read_json_file, get_card_set_online
 data_dir = Path(__file__).parent.parent / "data/data"
-print(data_dir.exists())
-print(Path(".").absolute())
-print(Path("./data/data/set1-en_us.json").exists())
+
+#these are made for debugging, so commented them out. They were annoying whenever I imported this.
+#print(data_dir.exists())
+#print(Path(".").absolute())
+#print(Path("./data/data/set1-en_us.json").exists())
 
 try:
     cards_files = data_dir.glob("set*.json")
