@@ -1,0 +1,5391 @@
+[
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03BW006T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03BW006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03BW006-full.png"
+      }
+    ],
+    "region": "Bilgewater",
+    "regionRef": "Bilgewater",
+    "attack": 5,
+    "cost": 5,
+    "health": 6,
+    "description": "<link=vocab.RoundStart><style=Vocab>Round Start</style></link>: Create a <link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>Fleeting</style></link> <link=card.create><style=AssociatedCard>Sleep with the Fishes</style></link> in hand.",
+    "descriptionRaw": "Round Start: Create a Fleeting Sleep with the Fishes in hand.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Years in the boxing ring taught Jack valuable lessons. He learned that if his opponent can bleed, they can fear. He learned the power of a silent stare. He learned the power of uncontrolled violence.",
+    "artistName": "JiHun Lee",
+    "name": "Jack, the Winner",
+    "cardCode": "03BW006",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "EPIC",
+    "rarityRef": "Epic",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Unit",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03SI004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03SI004-full.png"
+      }
+    ],
+    "region": "Shadow Isles",
+    "regionRef": "ShadowIsles",
+    "attack": 0,
+    "cost": 2,
+    "health": 0,
+    "description": "Pick a follower from the top 4 cards in your deck.\r\nDraw it, shuffle the rest into deck, then create an <link=keyword.Ephemeral><sprite name=Ephemeral><style=Keyword>Ephemeral</style></link> copy in hand.",
+    "descriptionRaw": "Pick a follower from the top 4 cards in your deck.\r\nDraw it, shuffle the rest into deck, then create an Ephemeral copy in hand.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Go... surround them...\" - Nocturne",
+    "artistName": "Kudos Productions",
+    "name": "Stalking Shadows",
+    "cardCode": "03SI004",
+    "keywords": [
+      "Burst"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "Burst",
+    "spellSpeedRef": "Burst",
+    "rarity": "RARE",
+    "rarityRef": "Rare",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Spell",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT018.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT018-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 2,
+    "cost": 2,
+    "health": 2,
+    "description": "When I'm summoned, draw 1.",
+    "descriptionRaw": "When I'm summoned, draw 1.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"As leaves unfurl from barren branches, the Lady of Spring sends her messenger to inform the Lord of Winter of the changing season. The messenger's bark startles the stars into new places in the sky, while his loyal heart warms the land.\" \n- Song of the Seasons",
+    "artistName": "Kudos Productions",
+    "name": "The Messenger",
+    "cardCode": "03MT018",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "None",
+    "rarityRef": "None",
+    "subtype": "CELESTIAL",
+    "subtypes": [
+      "CELESTIAL"
+    ],
+    "supertype": "",
+    "type": "Unit",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT034.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT034-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 2,
+    "cost": 0,
+    "health": 1,
+    "description": "",
+    "descriptionRaw": "",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"During Targon's first equinox, the people of the mountain attempted their first truce. But as their leaders laid their weapons down, one suddenly cried out in pain! Soldiers drew their spears, and all thoughts of peace were lost. Little did they know the true betrayer was a serpent hidden beneath their feet, forevermore a sign of violent times.\" \n- Targonian folk tale",
+    "artistName": "Kudos Productions",
+    "name": "The Serpent",
+    "cardCode": "03MT034",
+    "keywords": [
+      "Challenger"
+    ],
+    "keywordRefs": [
+      "Challenger"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "None",
+    "rarityRef": "None",
+    "subtype": "CELESTIAL",
+    "subtypes": [
+      "CELESTIAL"
+    ],
+    "supertype": "",
+    "type": "Unit",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03SI012.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03SI012-full.png"
+      }
+    ],
+    "region": "Shadow Isles",
+    "regionRef": "ShadowIsles",
+    "attack": 0,
+    "cost": 3,
+    "health": 0,
+    "description": "<link=keyword.Obliterate><style=Keyword>Obliterate</style></link> all units that were summoned, but not played, this round.",
+    "descriptionRaw": "Obliterate all units that were summoned, but not played, this round.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Of course, death is present in Demacia. We see it take our loved ones and know that, someday, it will come for us. But on these isles... I can almost taste death. I feel it in my lungs as I breathe, I hear it whisper in my ear. It is not some abstract notion. It sits with me here. Now. And it will have us all.\"\n- Notes of Jens Tommen, historian",
+    "artistName": "Kudos Productions",
+    "name": "Passage Unearned",
+    "cardCode": "03SI012",
+    "keywords": [
+      "Fast"
+    ],
+    "keywordRefs": [
+      "Fast"
+    ],
+    "spellSpeed": "Fast",
+    "spellSpeedRef": "Fast",
+    "rarity": "RARE",
+    "rarityRef": "Rare",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Spell",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03SI014.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03SI014-full.png"
+      }
+    ],
+    "region": "Shadow Isles",
+    "regionRef": "ShadowIsles",
+    "attack": 0,
+    "cost": 4,
+    "health": 0,
+    "description": "Grant ALL allies in deck and hand +2|+2 and <link=keyword.Ephemeral><sprite name=Ephemeral><style=Keyword>Ephemeral</style></link>.",
+    "descriptionRaw": "Grant ALL allies in deck and hand +2|+2 and Ephemeral.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Mind or body, I fear that the nightmares of the Shadow Isles will break us all eventually, and insanity will reign forever.\"\n- Notes of Jens Tommen, historian",
+    "artistName": "Kudos Productions",
+    "name": "Encroaching Shadows",
+    "cardCode": "03SI014",
+    "keywords": [
+      "Burst"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "Burst",
+    "spellSpeedRef": "Burst",
+    "rarity": "EPIC",
+    "rarityRef": "Epic",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Spell",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03SI007.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03SI007-full.png"
+      }
+    ],
+    "region": "Shadow Isles",
+    "regionRef": "ShadowIsles",
+    "attack": 0,
+    "cost": 1,
+    "health": 0,
+    "description": "The next time you summon an ally this round, give it +1|+0 and <link=keyword.SpellShield><sprite name=SpellShield><style=Keyword>SpellShield</style></link> this round.",
+    "descriptionRaw": "The next time you summon an ally this round, give it +1|+0 and SpellShield this round.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Soon as you step outside the Tooth, you'll feel 'em. Fingertips on your nape, light as rain. Them creatures don't budge when you come at 'em, neither. Ain't afraid of my blade or my torch. Nothin'. Awful things.\" - Whale's Tooth looter",
+    "artistName": "Kudos Productions",
+    "name": "Shroud of Darkness",
+    "cardCode": "03SI007",
+    "keywords": [
+      "Burst"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "Burst",
+    "spellSpeedRef": "Burst",
+    "rarity": "COMMON",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Spell",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "01SI014"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03SI013.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03SI013-full.png"
+      }
+    ],
+    "region": "Shadow Isles",
+    "regionRef": "ShadowIsles",
+    "attack": 0,
+    "cost": 4,
+    "health": 0,
+    "description": "Summon a <link=card.summon><style=AssociatedCard>Mistwraith</style></link>.",
+    "descriptionRaw": "Summon a Mistwraith.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "The mistwraiths move through planes unseen by mortal eyes, appear without warning, and inflict misery on all they encounter.",
+    "artistName": "Kudos Productions",
+    "name": "Risen Mists",
+    "cardCode": "03SI013",
+    "keywords": [
+      "Burst"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "Burst",
+    "spellSpeedRef": "Burst",
+    "rarity": "COMMON",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Spell",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03IO017.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03IO017-full.png"
+      }
+    ],
+    "region": "Ionia",
+    "regionRef": "Ionia",
+    "attack": 0,
+    "cost": 1,
+    "health": 1,
+    "description": "<link=vocab.Support><style=Vocab>Support</style></link>: Give my supported ally +2|+1 this round.",
+    "descriptionRaw": "Support: Give my supported ally +2|+1 this round.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Pix is AWESOME, he's small and cool and wholesome,\nHis favorite things are possums, and he likes to... hrmhmhmhrmthrossom!\" - Lulu",
+    "artistName": "Dao Le",
+    "name": "Pix!",
+    "cardCode": "03IO017",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "COMMON",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Unit",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03SI005",
+      "03SI005T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03SI005T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03SI005T3-full.png"
+      }
+    ],
+    "region": "Shadow Isles",
+    "regionRef": "ShadowIsles",
+    "attack": 0,
+    "cost": 2,
+    "health": 0,
+    "description": "Drain 1 from anything. Shuffle a <link=card.level1><style=AssociatedCard>Nocturne</style></link> into your deck.\r\n<link=keyword.Nightfall><style=Keyword>Nightfall</style></link>: Create a random <link=keyword.Nightfall><style=Keyword>Nightfall</style></link> card in hand.",
+    "descriptionRaw": "Drain 1 from anything. Shuffle a Nocturne into your deck.\r\nNightfall: Create a random Nightfall card in hand.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Every passing day saps my spirit, pulls from me the vigor that compelled me to find this place. The Whale's Tooth is full of haggard folk, seemingly lost to all endeavor, and I fear the longer I stay, the more like them I become.\"\n- Notes of Jens Tommen, historian",
+    "artistName": "Kudos Productions",
+    "name": "Nocturne's Unspeakable Horror",
+    "cardCode": "03SI005T3",
+    "keywords": [
+      "Fast"
+    ],
+    "keywordRefs": [
+      "Fast"
+    ],
+    "spellSpeed": "Fast",
+    "spellSpeedRef": "Fast",
+    "rarity": "None",
+    "rarityRef": "None",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "Champion",
+    "type": "Spell",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT073T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT073T1-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 1,
+    "health": 0,
+    "description": "The next unit with <link=keyword.Nightfall><style=Keyword>Nightfall</style></link> you play this round costs 1 less.",
+    "descriptionRaw": "The next unit with Nightfall you play this round costs 1 less.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "The fragrance of the duskpetal is like none other. Sweet and strange, but fleeting, it is delicate as moonlight itself.",
+    "artistName": "Kudos Productions",
+    "name": "Duskpetal Dust",
+    "cardCode": "03MT073T1",
+    "keywords": [
+      "Burst"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "Burst",
+    "spellSpeedRef": "Burst",
+    "rarity": "None",
+    "rarityRef": "None",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Spell",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03SI006T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03SI006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03SI006-full.png"
+      }
+    ],
+    "region": "Shadow Isles",
+    "regionRef": "ShadowIsles",
+    "attack": 3,
+    "cost": 3,
+    "health": 2,
+    "description": "<link=keyword.PlaySkillMark><sprite name=PlaySkillMark><style=Keyword></style></link><link=keyword.Nightfall><style=Keyword>Nightfall</style></link>: Drain 2 from the enemy Nexus.",
+    "descriptionRaw": "Nightfall: Drain 2 from the enemy Nexus.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "With each passing night, the travelers grew more weary. Their slumber was restless, and their dreams vivid. Sleep no longer gave respite, and instead pulled the life from their bones.",
+    "artistName": "SIXMOREVODKA",
+    "name": "Doombeast",
+    "cardCode": "03SI006",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "COMMON",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Unit",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT083.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT083-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 6,
+    "cost": 8,
+    "health": 5,
+    "description": "When I'm summoned, grant me +1|+0 for each Celestial card you played this game. <style=Variable></style>\r\nThe first time I would die, fully heal me instead.",
+    "descriptionRaw": "When I'm summoned, grant me +1|+0 for each Celestial card you played this game. \r\nThe first time I would die, fully heal me instead.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"For ages, the Immortal Fire flew alone, till one day she saw a young bird with fiery golden wings like hers. She rejoiced, for she had never known another like herself. But as years passed, the young bird grew old and flickered out. The Immortal Fire grieved, for she had never known death. And so she wept sparks and sighed herself ablaze, till she emerged, renewed in body but burdened with knowledge.\" - Shuriman folk tale",
+    "artistName": "Kudos Productions",
+    "name": "The Immortal Fire",
+    "cardCode": "03MT083",
+    "keywords": [
+      "Elusive",
+      "Last Breath"
+    ],
+    "keywordRefs": [
+      "Elusive",
+      "LastBreath"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "None",
+    "rarityRef": "None",
+    "subtype": "CELESTIAL",
+    "subtypes": [
+      "CELESTIAL"
+    ],
+    "supertype": "",
+    "type": "Unit",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT004-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 0,
+    "health": 0,
+    "description": "Reduce the cost of a card in hand by 1.",
+    "descriptionRaw": "Reduce the cost of a card in hand by 1.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Each full moon bathes our world in Her silver glow, revealing paths not yet trod, stories not yet told.\" - Lunari Priestess",
+    "artistName": "Kudos Productions",
+    "name": "Moonsilver",
+    "cardCode": "03MT004",
+    "keywords": [
+      "Burst"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "Burst",
+    "spellSpeedRef": "Burst",
+    "rarity": "None",
+    "rarityRef": "None",
+    "subtype": "CELESTIAL",
+    "subtypes": [
+      "CELESTIAL"
+    ],
+    "supertype": "",
+    "type": "Spell",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT037.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT037-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 10,
+    "cost": 10,
+    "health": 10,
+    "description": "When I'm summoned, grant me +1|+0 for each Celestial card you played this game. <style=Variable></style>\r\n<link=vocab.Attack><style=Vocab>Attack</style></link>: Give other allies +2|+2 and <link=keyword.Overwhelm><sprite name=Overwhelm><style=Keyword>Overwhelm</style></link> this round.",
+    "descriptionRaw": "When I'm summoned, grant me +1|+0 for each Celestial card you played this game. \r\nAttack: Give other allies +2|+2 and Overwhelm this round.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Legends speak of a Scourge that lurks at the furthest reaches of the Celestial Realm. Here, it awaits the time-at-the-end-of-time, when it will wield the power of the stars to shatter the foundations of the world.",
+    "artistName": "Kudos Productions",
+    "name": "The Scourge",
+    "cardCode": "03MT037",
+    "keywords": [
+      "Challenger"
+    ],
+    "keywordRefs": [
+      "Challenger"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "None",
+    "rarityRef": "None",
+    "subtype": "CELESTIAL",
+    "subtypes": [
+      "CELESTIAL"
+    ],
+    "supertype": "",
+    "type": "Unit",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT060.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT060-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 2,
+    "cost": 4,
+    "health": 7,
+    "description": "<link=vocab.RoundStart><style=Vocab>Round Start</style></link>: Heal your Nexus 3. Deal damage to me equal to the amount healed.",
+    "descriptionRaw": "Round Start: Heal your Nexus 3. Deal damage to me equal to the amount healed.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Nobody knows the paths of Targon like I do, so I get stuck with some of the, uh, willful stellacorns. Good thing they've got me to look after them!\" ",
+    "artistName": "SIXMOREVODKA",
+    "name": "Broadbacked Protector",
+    "cardCode": "03MT060",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "EPIC",
+    "rarityRef": "Epic",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Unit",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT033.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT033-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 8,
+    "cost": 8,
+    "health": 4,
+    "description": "<link=vocab.Play><style=Vocab>Play</style></link>: Grant an ally +0|+4.",
+    "descriptionRaw": "Play: Grant an ally +0|+4.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Listen, Osu. Do you hear that? Bells! Grandfather's back!\" - Illi, Star Shepherd",
+    "artistName": "Polar Engine",
+    "name": "Grandfather Rumul",
+    "cardCode": "03MT033",
+    "keywords": [
+      "Overwhelm",
+      "SpellShield"
+    ],
+    "keywordRefs": [
+      "Overwhelm",
+      "SpellShield"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "RARE",
+    "rarityRef": "Rare",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Unit",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03DE006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03DE006-full.png"
+      }
+    ],
+    "region": "Demacia",
+    "regionRef": "Demacia",
+    "attack": 4,
+    "cost": 5,
+    "health": 5,
+    "description": "",
+    "descriptionRaw": "",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "All creatures are fiercely protective of their young, but few are as well equipped to deal with would-be threats as a dragon.",
+    "artistName": "SIXMOREVODKA",
+    "name": "Screeching Dragon",
+    "cardCode": "03DE006",
+    "keywords": [
+      "Challenger",
+      "Fury"
+    ],
+    "keywordRefs": [
+      "Challenger",
+      "Fury"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "COMMON",
+    "rarityRef": "Common",
+    "subtype": "DRAGON",
+    "subtypes": [
+      "DRAGON"
+    ],
+    "supertype": "",
+    "type": "Unit",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03FR007.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03FR007-full.png"
+      }
+    ],
+    "region": "Freljord",
+    "regionRef": "Freljord",
+    "attack": 1,
+    "cost": 2,
+    "health": 3,
+    "description": "When I'm summoned, if you <link=vocab.Behold><style=Vocab>Behold</style></link> an 8+ cost card, grant me +3|+0.",
+    "descriptionRaw": "When I'm summoned, if you Behold an 8+ cost card, grant me +3|+0.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "The scout knelt by a tattered edge of cloth hidden in the snow, where the scent of human sweat and fire smoke lingered in the cold air.\nHe pulled the material free and saw at one end, a talisman dangled, dull under the stormy sky. Avarosan. ",
+    "artistName": "Wild Blue Studio",
+    "name": "Troll Scavenger",
+    "cardCode": "03FR007",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "COMMON",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Unit",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03IO008T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03IO008T1-full.png"
+      }
+    ],
+    "region": "Ionia",
+    "regionRef": "Ionia",
+    "attack": 1,
+    "cost": 1,
+    "health": 1,
+    "description": "",
+    "descriptionRaw": "",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "A fae flash knocked him to the floor! Newly keen ears heard a yordle's fading laughter, and he looked down to see furry paws, attached to furry arms...",
+    "artistName": "Dao Le",
+    "name": "Squirrel",
+    "cardCode": "03IO008T1",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "None",
+    "rarityRef": "None",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Unit",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT021.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT021-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 8,
+    "cost": 8,
+    "health": 8,
+    "description": "<link=vocab.Play><style=Vocab>Play</style></link>: Pick 2 enemies.\r\n<link=vocab.RoundStart><style=Vocab>Round Start</style></link>: <link=keyword.Stun><sprite name=Stunned><style=Keyword>Stun</style></link> them.",
+    "descriptionRaw": "Play: Pick 2 enemies.\r\nRound Start: Stun them.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Travelers who lock eyes with the creature are said to be struck by a knowledge so profound, an insight so awesome, that their minds crumble beneath its gaze.",
+    "artistName": "SIXMOREVODKA",
+    "name": "The Infinite Mindsplitter",
+    "cardCode": "03MT021",
+    "keywords": [
+      "Fury"
+    ],
+    "keywordRefs": [
+      "Fury"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "EPIC",
+    "rarityRef": "Epic",
+    "subtype": "DRAGON",
+    "subtypes": [
+      "DRAGON"
+    ],
+    "supertype": "",
+    "type": "Unit",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03MT059T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT059.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT059-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 4,
+    "cost": 6,
+    "health": 3,
+    "description": "When I'm summoned, summon <link=card.create><style=AssociatedCard>The Silver Sister</style></link>.",
+    "descriptionRaw": "When I'm summoned, summon The Silver Sister.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"From the heavens\nTwo beings came:\nOne was robed in silver's glow,\nThe other clad in golden flame...\"\n- Hymn of the Hours",
+    "artistName": "Kudos Productions",
+    "name": "The Golden Sister",
+    "cardCode": "03MT059",
+    "keywords": [
+      "Lifesteal"
+    ],
+    "keywordRefs": [
+      "Lifesteal"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "None",
+    "rarityRef": "None",
+    "subtype": "CELESTIAL",
+    "subtypes": [
+      "CELESTIAL"
+    ],
+    "supertype": "",
+    "type": "Unit",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03MT056T2",
+      "03MT056"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT056T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT056T1-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 3,
+    "cost": 2,
+    "health": 3,
+    "description": "<link=keyword.Nightfall><style=Keyword>Nightfall</style></link> or when you activate another <link=keyword.Nightfall><style=Keyword>Nightfall</style></link>: Give me +2|+0 and <link=keyword.Challenger><sprite name=Challenger><style=Keyword>Challenger</style></link> this round.",
+    "descriptionRaw": "Nightfall or when you activate another Nightfall: Give me +2|+0 and Challenger this round.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Diana raced down the mountain, sword drawn and coated with duskpetal dust. She knew Leona would find her--she was counting on it. Her heart fluttered with anxious anticipation, and she breathed deeply to still it. This time upon their meeting, she would have the upper hand; this time, she would face her old friend head-on.",
+    "artistName": "SIXMOREVODKA",
+    "name": "Diana",
+    "cardCode": "03MT056T1",
+    "keywords": [
+      "Quick Attack"
+    ],
+    "keywordRefs": [
+      "QuickStrike"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "None",
+    "rarityRef": "None",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "Champion",
+    "type": "Unit",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03MT092T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT092.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT092-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 3,
+    "cost": 2,
+    "health": 1,
+    "description": "<link=vocab.Strike><style=Vocab>Strike</style></link>: Create a <link=card.create><style=AssociatedCard>Gem</style></link> in hand.",
+    "descriptionRaw": "Strike: Create a Gem in hand.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "The goats of Mount Targon are even more dangerous than their ordinary cousins, for the gems that make up their horns embed painful shards upon impact. ",
+    "artistName": "Polar Engine",
+    "name": "Mountain Goat",
+    "cardCode": "03MT092",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "RARE",
+    "rarityRef": "Rare",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Unit",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03IO001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03IO001-full.png"
+      }
+    ],
+    "region": "Ionia",
+    "regionRef": "Ionia",
+    "attack": 1,
+    "cost": 1,
+    "health": 2,
+    "description": "When I'm supported, grant me +2|+0.",
+    "descriptionRaw": "When I'm supported, grant me +2|+0.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Everyone wants a familiar, but no one's prepared for the responsibility. You've gotta take them on walkies, make sure they're eating a balanced diet... house-train them. It's a lot of work.",
+    "artistName": "SIXMOREVODKA",
+    "name": "Flower Child",
+    "cardCode": "03IO001",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "COMMON",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Unit",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03SI005T3",
+      "03SI005"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03SI005T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03SI005T1-full.png"
+      }
+    ],
+    "region": "Shadow Isles",
+    "regionRef": "ShadowIsles",
+    "attack": 6,
+    "cost": 4,
+    "health": 4,
+    "description": "Other allies have <link=keyword.Fearsome><sprite name=Fearsome><style=Keyword>Fearsome</style></link>.\r\nWhen you play a unit, give enemies <nobr>-1|-0</nobr> this round.",
+    "descriptionRaw": "Other allies have Fearsome.\r\nWhen you play a unit, give enemies -1|-0 this round.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"My dreams grow more vivid with each passing night. I see a creature of pure evil, writhing in the dark, twisting its way toward me. Though I was to be stationed here for another week, I have just paid for transport to Fossbarrow this evening. Plainly, I cannot stand this place.\"\n- Notes of Jens Tommen, historian",
+    "artistName": "SIXMOREVODKA",
+    "name": "Nocturne",
+    "cardCode": "03SI005T1",
+    "keywords": [
+      "Fearsome"
+    ],
+    "keywordRefs": [
+      "Fearsome"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "None",
+    "rarityRef": "None",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "Champion",
+    "type": "Unit",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03MT092T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT048.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT048-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 1,
+    "cost": 1,
+    "health": 2,
+    "description": "When I'm summoned, create a <link=card.create><style=AssociatedCard>Gem</style></link> in hand.",
+    "descriptionRaw": "When I'm summoned, create a Gem in hand.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"They say the Protector blessed these gems. Wear them, and he shall be with you in spirit.\"",
+    "artistName": "SIXMOREVODKA",
+    "name": "Gift Giver",
+    "cardCode": "03MT048",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "COMMON",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Unit",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03FR004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03FR004-full.png"
+      }
+    ],
+    "region": "Freljord",
+    "regionRef": "Freljord",
+    "attack": 0,
+    "cost": 7,
+    "health": 0,
+    "description": "Pick a unit in your hand to reveal. Heal your Nexus by its Power.\r\n<link=keyword.Enlightened><style=Keyword>Enlightened</style></link>: Reduce its cost to 0.",
+    "descriptionRaw": "Pick a unit in your hand to reveal. Heal your Nexus by its Power.\r\nEnlightened: Reduce its cost to 0.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Fully grown trolls have thick hides and dense bones that heal quickly, making them terrible, tenacious foes. Cut them down quickly, lest they recover to fight again another day.\" - Avarosan Marksman",
+    "artistName": "Kudos Productions",
+    "name": "Revitalizing Roar",
+    "cardCode": "03FR004",
+    "keywords": [
+      "Slow"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "Slow",
+    "spellSpeedRef": "Slow",
+    "rarity": "RARE",
+    "rarityRef": "Rare",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Spell",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT063.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT063-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 3,
+    "cost": 5,
+    "health": 5,
+    "description": "<link=vocab.Play><style=Vocab>Play</style></link>: <link=keyword.Invoke><style=Keyword>Invoke</style></link>.",
+    "descriptionRaw": "Play: Invoke.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Look at all our friends out in the sky tonight! See that extra bright star? That's the Messenger's eye staring down at us! That dim cluster way out there? It is the Trickster hiding behind clouds! And that one over--KULUN, SHH! You cannot paw those down...!\"",
+    "artistName": "Aron Elekes",
+    "name": "Moondreamer",
+    "cardCode": "03MT063",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "COMMON",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Unit",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "02BW034T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03BW014.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03BW014-full.png"
+      }
+    ],
+    "region": "Bilgewater",
+    "regionRef": "Bilgewater",
+    "attack": 0,
+    "cost": 2,
+    "health": 0,
+    "description": "Summon a <link=card.summon><style=AssociatedCard>Powder Monkey</style></link>.\r\n<link=vocab.Plunder><style=Vocab>Plunder</style></link>: Summon another <link=card.summon><style=AssociatedCard>Powder Monkey</style></link> next round.",
+    "descriptionRaw": "Summon a Powder Monkey.\r\nPlunder: Summon another Powder Monkey next round.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Aw... d'ye think they're cute? WELL, THEY'RE NOT. They get into everything, they're messier than a seasick courier, an' THEY WON'T BLOODY SHUT UP. NO MONKEYS ON THE SHIP. THAT'S THE END OF IT.\" - Petty Officer",
+    "artistName": "Kudos Productions",
+    "name": "Monkey Business",
+    "cardCode": "03BW014",
+    "keywords": [
+      "Slow"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "Slow",
+    "spellSpeedRef": "Slow",
+    "rarity": "COMMON",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Spell",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT006-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 5,
+    "cost": 6,
+    "health": 6,
+    "description": "When an ally with <link=keyword.Fury><sprite name=Fury><style=Keyword>Fury</style></link> kills an enemy for the first time each round, create a random Dragon in hand.",
+    "descriptionRaw": "When an ally with Fury kills an enemy for the first time each round, create a random Dragon in hand.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Look to the heavens, and see as I do! First the signals, for by night they shine. Then the fury, for by day all burns. You will see! We will all see!\" - Herald of Dragons",
+    "artistName": "SIXMOREVODKA",
+    "name": "Inviolus Vox",
+    "cardCode": "03MT006",
+    "keywords": [
+      "Fury"
+    ],
+    "keywordRefs": [
+      "Fury"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "EPIC",
+    "rarityRef": "Epic",
+    "subtype": "DRAGON",
+    "subtypes": [
+      "DRAGON"
+    ],
+    "supertype": "",
+    "type": "Unit",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03IO019.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03IO019-full.png"
+      }
+    ],
+    "region": "Ionia",
+    "regionRef": "Ionia",
+    "attack": 0,
+    "cost": 10,
+    "health": 0,
+    "description": "Pick an ally. <link=keyword.Recall><style=Keyword>Recall</style></link> ALL other units.",
+    "descriptionRaw": "Pick an ally. Recall ALL other units.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"I walk my path alone.\" - Solitary Monk",
+    "artistName": "Kudos Productions",
+    "name": "Singular Will",
+    "cardCode": "03IO019",
+    "keywords": [
+      "Slow"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "Slow",
+    "spellSpeedRef": "Slow",
+    "rarity": "EPIC",
+    "rarityRef": "Epic",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Spell",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT053.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT053-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 2,
+    "health": 0,
+    "description": "Grant an ally +0|+2 and <link=keyword.SpellShield><sprite name=SpellShield><style=Keyword>SpellShield</style></link>.",
+    "descriptionRaw": "Grant an ally +0|+2 and SpellShield.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Bathe in Her gentle glow and receive Her blessing.\" - Lunari Priestess",
+    "artistName": "Kudos Productions",
+    "name": "Moonglow",
+    "cardCode": "03MT053",
+    "keywords": [
+      "Slow"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "Slow",
+    "spellSpeedRef": "Slow",
+    "rarity": "None",
+    "rarityRef": "None",
+    "subtype": "CELESTIAL",
+    "subtypes": [
+      "CELESTIAL"
+    ],
+    "supertype": "",
+    "type": "Spell",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03FR017.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03FR017-full.png"
+      }
+    ],
+    "region": "Freljord",
+    "regionRef": "Freljord",
+    "attack": 5,
+    "cost": 6,
+    "health": 5,
+    "description": "<link=vocab.Play><style=Vocab>Play</style></link>: If you <link=vocab.Behold><style=Vocab>Behold</style></link> an 8+ cost card, grant an ally <link=keyword.Overwhelm><sprite name=Overwhelm><style=Keyword>Overwhelm</style></link> and <link=keyword.Regeneration><sprite name=Regeneration><style=Keyword>Regeneration</style></link>.",
+    "descriptionRaw": "Play: If you Behold an 8+ cost card, grant an ally Overwhelm and Regeneration.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "It is said that very few trolls are taught the chants of the Old Ones, and that those who know them can call on their forebears to imbue their brethren with exceptional strength.",
+    "artistName": "Kudos Productions",
+    "name": "Augur of the Old Ones",
+    "cardCode": "03FR017",
+    "keywords": [
+      "Overwhelm",
+      "Regeneration"
+    ],
+    "keywordRefs": [
+      "Overwhelm",
+      "Regeneration"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "RARE",
+    "rarityRef": "Rare",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Unit",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03MT054",
+      "03MT054T1",
+      "03MT054"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT054T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT054T2-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 5,
+    "health": 0,
+    "description": "Give allies +2|+2 this round. Shuffle a <link=card.level1><style=AssociatedCard>Leona</style></link> into your deck.\r\n<link=keyword.Daybreak><style=Keyword>Daybreak</style></link>: Activate all ally <link=keyword.Daybreak><style=Keyword>Daybreak</style></link> effects at once.",
+    "descriptionRaw": "Give allies +2|+2 this round. Shuffle a Leona into your deck.\r\nDaybreak: Activate all ally Daybreak effects at once.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"She is our unflinching leader in the heavens, the blinding flash of our weapons at noon, and the unquenchable fire that burns in our hearts.\" \n- Solari Priestess",
+    "artistName": "Kudos Productions",
+    "name": "Leona's Morning Light",
+    "cardCode": "03MT054T2",
+    "keywords": [
+      "Slow"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "Slow",
+    "spellSpeedRef": "Slow",
+    "rarity": "None",
+    "rarityRef": "None",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "Champion",
+    "type": "Spell",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT014.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT014-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 1,
+    "cost": 2,
+    "health": 1,
+    "description": "Dragon allies cost 1 less.",
+    "descriptionRaw": "Dragon allies cost 1 less.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "The clouds twisted around their massive forms, and the sky itself seemed to shake with their keening wails. She knew what was to come, and yet felt not fear but the warm embrace of destiny.",
+    "artistName": "Polar Engine",
+    "name": "Herald of Dragons",
+    "cardCode": "03MT014",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "RARE",
+    "rarityRef": "Rare",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Unit",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03MT058T2",
+      "03MT058T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT058.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT058-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 2,
+    "cost": 4,
+    "health": 4,
+    "description": "<link=vocab.Support><style=Vocab>Support</style></link>: Give me and my supported ally <link=keyword.Tough><sprite name=Tough><style=Keyword>Tough</style></link> this round. Copy the last spell you cast on only me this round onto that ally <style=Parentheses>(It can't be copied again)</style>.",
+    "descriptionRaw": "Support: Give me and my supported ally Tough this round. Copy the last spell you cast on only me this round onto that ally (It can't be copied again).",
+    "levelupDescription": "I've seen you target or <link=vocab.Support><style=Vocab>support</style></link> allies 7+ times<style=Variable></style>.",
+    "levelupDescriptionRaw": "I've seen you target or support allies 7+ times.",
+    "flavorText": "\"Taric's gentle kindness inspires all who meet him, galvanizing them to find the warmth within to bolster themselves on even the coldest of nights.\" - Mountain Scryer",
+    "artistName": "SIXMOREVODKA",
+    "name": "Taric",
+    "cardCode": "03MT058",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "Champion",
+    "rarityRef": "Champion",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "Champion",
+    "type": "Unit",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT032.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT032-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 4,
+    "health": 0,
+    "description": "Draw a champion. Reduce its cost by 1 and grant it +2|+2.",
+    "descriptionRaw": "Draw a champion. Reduce its cost by 1 and grant it +2|+2.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"The vastness of the night sky represents the gulf between humanity below and the divine above. But there are some mortals who strive to achieve a higher purpose, and if the mountain deems them worthy, they may rise to become one with the stars themselves.\" - Mountain Scryer",
+    "artistName": "Kudos Productions",
+    "name": "Written in Stars",
+    "cardCode": "03MT032",
+    "keywords": [
+      "Burst"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "Burst",
+    "spellSpeedRef": "Burst",
+    "rarity": "None",
+    "rarityRef": "None",
+    "subtype": "CELESTIAL",
+    "subtypes": [
+      "CELESTIAL"
+    ],
+    "supertype": "",
+    "type": "Spell",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT098.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT098-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 2,
+    "health": 0,
+    "description": "Grant an ally +0|+2.",
+    "descriptionRaw": "Grant an ally +0|+2.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Our shield is our conviction, our resolve, our trust in the light!\" - Solari Shieldbearer",
+    "artistName": "Kudos Productions",
+    "name": "Sunblessed Vigor",
+    "cardCode": "03MT098",
+    "keywords": [
+      "Burst"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "Burst",
+    "spellSpeedRef": "Burst",
+    "rarity": "COMMON",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Spell",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT024.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT024-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 9,
+    "health": 0,
+    "description": "If you <link=vocab.Behold><style=Vocab>Behold</style></link> a Celestial card, <link=keyword.Obliterate><style=Keyword>Obliterate</style></link> 2 enemies.",
+    "descriptionRaw": "If you Behold a Celestial card, Obliterate 2 enemies.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Dying stars create explosions so bright and powerful that even other stars, still lively and burning, are easily outshone.  ",
+    "artistName": "Kudos Productions",
+    "name": "Supernova",
+    "cardCode": "03MT024",
+    "keywords": [
+      "Slow"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "Slow",
+    "spellSpeedRef": "Slow",
+    "rarity": "None",
+    "rarityRef": "None",
+    "subtype": "CELESTIAL",
+    "subtypes": [
+      "CELESTIAL"
+    ],
+    "supertype": "",
+    "type": "Spell",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT066.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT066-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 7,
+    "health": 0,
+    "description": "If you <link=vocab.Behold><style=Vocab>Behold</style></link> a Celestial card, grant allies <link=vocab.Everywhere><style=Vocab>everywhere</style></link> +2|+2. Refill your spell mana.",
+    "descriptionRaw": "If you Behold a Celestial card, grant allies everywhere +2|+2. Refill your spell mana.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Look to the night sky. Take in the stars' brilliance, and let them suffuse you with their healing light.\" - Soraka",
+    "artistName": "Kudos Productions",
+    "name": "Cosmic Inspiration",
+    "cardCode": "03MT066",
+    "keywords": [
+      "Slow"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "Slow",
+    "spellSpeedRef": "Slow",
+    "rarity": "None",
+    "rarityRef": "None",
+    "subtype": "CELESTIAL",
+    "subtypes": [
+      "CELESTIAL"
+    ],
+    "supertype": "",
+    "type": "Spell",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03MT085"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT085.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT085-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 3,
+    "health": 0,
+    "description": "<link=vocab.Silence><style=Vocab>Silence</style></link> a unit this round. Create a <link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>Fleeting</style></link> <link=card.me><style=AssociatedCard>Hush</style></link> in hand.",
+    "descriptionRaw": "Silence a unit this round. Create a Fleeting Hush in hand.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"They will know serenity.\" - Soraka",
+    "artistName": "Kudos Productions",
+    "name": "Hush",
+    "cardCode": "03MT085",
+    "keywords": [
+      "Burst"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "Burst",
+    "spellSpeedRef": "Burst",
+    "rarity": "RARE",
+    "rarityRef": "Rare",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Spell",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03MT054T3",
+      "03MT054T2",
+      "03MT054T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT054.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT054-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 3,
+    "cost": 4,
+    "health": 5,
+    "description": "<link=keyword.PlaySkillMark><sprite name=PlaySkillMark><style=Keyword></style></link><link=keyword.Daybreak><style=Keyword>Daybreak</style></link>: <link=keyword.Stun><sprite name=Stunned><style=Keyword>Stun</style></link> the <link=vocab.Strongest><style=Vocab>Strongest</style></link> enemy.",
+    "descriptionRaw": "Daybreak: Stun the Strongest enemy.",
+    "levelupDescription": "You've activated <link=keyword.Daybreak><style=Keyword>Daybreak</style></link> 4+ times<style=Variable></style>.",
+    "levelupDescriptionRaw": "You've activated Daybreak 4+ times.",
+    "flavorText": "She stood amidst them as she prepared for battle--radiating light, bedecked in crimson and gold, her eyes like embers. As the rising sun crowned her head in light, each Solari present lowered their eyes, not in shame, but in deference to their shining leader.",
+    "artistName": "SIXMOREVODKA",
+    "name": "Leona",
+    "cardCode": "03MT054",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "Champion",
+    "rarityRef": "Champion",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "Champion",
+    "type": "Unit",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03FR006T1",
+      "03FR006T3",
+      "03FR006"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03FR006T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03FR006T2-full.png"
+      }
+    ],
+    "region": "Freljord",
+    "regionRef": "Freljord",
+    "attack": 5,
+    "cost": 5,
+    "health": 7,
+    "description": "When I'm summoned, create an <link=card.create><style=AssociatedCard>Ice Pillar</style></link> in hand.\r\n<link=vocab.Attack><style=Vocab>Attack</style></link>: Grant me +1|+0 for each 8+ cost card you <link=vocab.Behold><style=Vocab>Behold</style></link>.",
+    "descriptionRaw": "When I'm summoned, create an Ice Pillar in hand.\r\nAttack: Grant me +1|+0 for each 8+ cost card you Behold.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "The Avarosans refused. Trundle gestured, and, like an avalanche, the trolls descended with such momentum that it carried them on for miles afterward, deep into the Avarosan tribelands, battering and breaking everything in their path without reserve.",
+    "artistName": "SIXMOREVODKA",
+    "name": "Trundle",
+    "cardCode": "03FR006T2",
+    "keywords": [
+      "Overwhelm",
+      "Regeneration"
+    ],
+    "keywordRefs": [
+      "Overwhelm",
+      "Regeneration"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "None",
+    "rarityRef": "None",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "Champion",
+    "type": "Unit",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT075.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT075-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 2,
+    "cost": 3,
+    "health": 1,
+    "description": "<link=keyword.Nightfall><style=Keyword>Nightfall</style></link>: <link=keyword.Invoke><style=Keyword>Invoke</style></link>.",
+    "descriptionRaw": "Nightfall: Invoke.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Oh, stars above, journeying like many pilgrims through the night's expanse--stay with us a moment, tell us what you've seen.\" - The Paeans of Evening",
+    "artistName": "Kudos Productions",
+    "name": "Lunari Priestess",
+    "cardCode": "03MT075",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "RARE",
+    "rarityRef": "Rare",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Unit",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03IO002T4.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03IO002T4-full.png"
+      }
+    ],
+    "region": "Ionia",
+    "regionRef": "Ionia",
+    "attack": 0,
+    "cost": 1,
+    "health": 0,
+    "description": "Give an ally <link=keyword.Barrier><sprite name=Barrier><style=Keyword>Barrier</style></link> or an enemy <link=keyword.Vulnerable><sprite name=Vulnerable><style=Keyword>Vulnerable</style></link> this round.\r\nCan't be cast in combat or in response to a spell.",
+    "descriptionRaw": "Give an ally Barrier or an enemy Vulnerable this round.\r\nCan't be cast in combat or in response to a spell.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Pix protec... or Pix attac...? ",
+    "artistName": "Kudos Productions",
+    "name": "Help, Pix!",
+    "cardCode": "03IO002T4",
+    "keywords": [
+      "Burst",
+      "Fleeting"
+    ],
+    "keywordRefs": [
+      "Burst",
+      "Fleeting"
+    ],
+    "spellSpeed": "Burst",
+    "spellSpeedRef": "Burst",
+    "rarity": "None",
+    "rarityRef": "None",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Spell",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT020.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT020-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 4,
+    "cost": 5,
+    "health": 5,
+    "description": "<link=vocab.Play><style=Vocab>Play</style></link>: Heal an ally and your Nexus 3.",
+    "descriptionRaw": "Play: Heal an ally and your Nexus 3.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"See that star moving across the night sky? That's a grown stellacorn. While the young ones lend us their healing magic until they can be returned to the sky, grown stellacorns can wield that power on their own. It is considered very lucky to see one and know it for what it is. Luckier still to care for one.\" - Lidari, Keeper of the Stars",
+    "artistName": "SIXMOREVODKA",
+    "name": "Resplendent Stellacorn",
+    "cardCode": "03MT020",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "COMMON",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Unit",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT071.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT071-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 2,
+    "cost": 2,
+    "health": 2,
+    "description": "<link=vocab.Support><style=Vocab>Support</style></link>: Grant my supported ally +0|+2.",
+    "descriptionRaw": "Support: Grant my supported ally +0|+2.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "In traveling, you must be open to the journey, which will inevitably change you. In traveling, you take something new with you... and you leave something of your old self behind. ",
+    "artistName": "SIXMOREVODKA",
+    "name": "Tyari the Traveler",
+    "cardCode": "03MT071",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "COMMON",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Unit",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "01NX038"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03NX018.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03NX018-full.png"
+      }
+    ],
+    "region": "Noxus",
+    "regionRef": "Noxus",
+    "attack": 0,
+    "cost": 2,
+    "health": 0,
+    "description": "<link=keyword.Stun><sprite name=Stunned><style=Keyword>Stun</style></link> an enemy.\r\nIf you have a <link=card.champ1><style=AssociatedCard>Darius</style></link>, <link=vocab.Rally><style=Vocab>Rally</style></link>.",
+    "descriptionRaw": "Stun an enemy.\r\nIf you have a Darius, Rally.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"I'll handle this myself.\" - Darius",
+    "artistName": "Kudos Productions",
+    "name": "Apprehend",
+    "cardCode": "03NX018",
+    "keywords": [
+      "Slow"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "Slow",
+    "spellSpeedRef": "Slow",
+    "rarity": "RARE",
+    "rarityRef": "Rare",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Spell",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03FR008.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03FR008-full.png"
+      }
+    ],
+    "region": "Freljord",
+    "regionRef": "Freljord",
+    "attack": 0,
+    "cost": 8,
+    "health": 0,
+    "description": "Give ALL units -3|-0 this round. Deal 3 to ALL units.",
+    "descriptionRaw": "Give ALL units -3|-0 this round. Deal 3 to ALL units.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Bury 'em alive!\" - Trundle",
+    "artistName": "Kudos Productions",
+    "name": "Icequake ",
+    "cardCode": "03FR008",
+    "keywords": [
+      "Slow"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "Slow",
+    "spellSpeedRef": "Slow",
+    "rarity": "EPIC",
+    "rarityRef": "Epic",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Spell",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT077.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT077-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 10,
+    "health": 0,
+    "description": "Fill your hand with random <link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>Fleeting</style></link> Celestial cards. Refill your mana.",
+    "descriptionRaw": "Fill your hand with random Fleeting Celestial cards. Refill your mana.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"They say that some constellations were once mortals whose exceptional exploits earned them a place amongst the stars.\" - Mountain Scryer",
+    "artistName": "Kudos Productions",
+    "name": "Living Legends",
+    "cardCode": "03MT077",
+    "keywords": [
+      "Burst"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "Burst",
+    "spellSpeedRef": "Burst",
+    "rarity": "None",
+    "rarityRef": "None",
+    "subtype": "CELESTIAL",
+    "subtypes": [
+      "CELESTIAL"
+    ],
+    "supertype": "",
+    "type": "Spell",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT002-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 15,
+    "health": 0,
+    "description": "Deal 15 to all enemies.\r\nCosts 2 less for each Dragon or Celestial ally you have.",
+    "descriptionRaw": "Deal 15 to all enemies.\r\nCosts 2 less for each Dragon or Celestial ally you have.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"When the time comes, I think I'll make an example of Runeterra. Perhaps I'll drag its smoldering husk around with me for all eternity. Like a toy. A dead, worthless toy. I don't know. I've not really thought about it much.\" - Aurelion Sol",
+    "artistName": "Kudos Productions",
+    "name": "The Skies Descend",
+    "cardCode": "03MT002",
+    "keywords": [
+      "Slow"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "Slow",
+    "spellSpeedRef": "Slow",
+    "rarity": "EPIC",
+    "rarityRef": "Epic",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Spell",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03IO008T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03IO008.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03IO008-full.png"
+      }
+    ],
+    "region": "Ionia",
+    "regionRef": "Ionia",
+    "attack": 0,
+    "cost": 4,
+    "health": 0,
+    "description": "Transform a follower into a 1|1 <link=card.summon><style=AssociatedCard>Squirrel</style></link> and <link=vocab.Silence><style=Vocab>Silence</style></link> it this round.",
+    "descriptionRaw": "Transform a follower into a 1|1 Squirrel and Silence it this round.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Adoribus!\" - Lulu",
+    "artistName": "Kudos Productions",
+    "name": "Whimsy!",
+    "cardCode": "03IO008",
+    "keywords": [
+      "Burst"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "Burst",
+    "spellSpeedRef": "Burst",
+    "rarity": "COMMON",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Spell",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT010.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT010-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 7,
+    "cost": 7,
+    "health": 7,
+    "description": "When I'm summoned, grant me +1|+0 for each Celestial card you played this game. <style=Variable></style>",
+    "descriptionRaw": "When I'm summoned, grant me +1|+0 for each Celestial card you played this game. ",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"To safeguard the spaces between land and sky, a horned guardian was placed in the stars over the mountains. Sturdy and swift, it traverses the night sky in search of intruders, whom it greets with an impact that sends shudders through earth and sky alike.\" - The Minotaur Histories",
+    "artistName": "Kudos Productions",
+    "name": "The Destroyer",
+    "cardCode": "03MT010",
+    "keywords": [
+      "Overwhelm",
+      "SpellShield"
+    ],
+    "keywordRefs": [
+      "Overwhelm",
+      "SpellShield"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "None",
+    "rarityRef": "None",
+    "subtype": "CELESTIAL",
+    "subtypes": [
+      "CELESTIAL"
+    ],
+    "supertype": "",
+    "type": "Unit",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT086.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT086-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 1,
+    "cost": 1,
+    "health": 1,
+    "description": "<link=vocab.Play><style=Vocab>Play</style></link>: Discard a card to <link=keyword.Invoke><style=Keyword>Invoke</style></link> a Celestial card that costs 3 or less.",
+    "descriptionRaw": "Play: Discard a card to Invoke a Celestial card that costs 3 or less.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"This one's my favorite! I call it 'Metaphysical Identity of the Conscious Psyche'. Unless you tilt your head like this... then it kinda looks like two spoons.\"",
+    "artistName": "Dao Le",
+    "name": "Spacey Sketcher",
+    "cardCode": "03MT086",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "RARE",
+    "rarityRef": "Rare",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Unit",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03MT087T2",
+      "03MT087"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT087T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT087T1-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 11,
+    "cost": 10,
+    "health": 11,
+    "description": "<link=vocab.Play><style=Vocab>Play</style></link>: <link=keyword.Invoke><style=Keyword>Invoke</style></link> a Celestial card that costs 7 or more.\r\n<link=vocab.RoundStart><style=Vocab>Round Start</style></link>: Create a random Celestial card in hand.\r\nYour Celestial cards cost 0.",
+    "descriptionRaw": "Play: Invoke a Celestial card that costs 7 or more.\r\nRound Start: Create a random Celestial card in hand.\r\nYour Celestial cards cost 0.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Aurelion Sol is handsome. And magnificent. And also very, very inteligent.",
+    "artistName": "SIXMOREVODKA",
+    "name": "Aurelion Sol",
+    "cardCode": "03MT087T1",
+    "keywords": [
+      "Fury",
+      "SpellShield"
+    ],
+    "keywordRefs": [
+      "Fury",
+      "SpellShield"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "None",
+    "rarityRef": "None",
+    "subtype": "DRAGON",
+    "subtypes": [
+      "DRAGON"
+    ],
+    "supertype": "Champion",
+    "type": "Unit",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT070.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT070-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 3,
+    "cost": 4,
+    "health": 4,
+    "description": "<link=vocab.Play><style=Vocab>Play</style></link>: <link=keyword.Invoke><style=Keyword>Invoke</style></link>.",
+    "descriptionRaw": "Play: Invoke.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"We were always one and the same--we were separated only by the mountain, the journey, and a sea of stars.\"",
+    "artistName": "Kudos Productions",
+    "name": "The Traveler",
+    "cardCode": "03MT070",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "None",
+    "rarityRef": "None",
+    "subtype": "CELESTIAL",
+    "subtypes": [
+      "CELESTIAL"
+    ],
+    "supertype": "",
+    "type": "Unit",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT019.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT019-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 3,
+    "health": 0,
+    "description": "Give an ally <link=keyword.SpellShield><sprite name=SpellShield><style=Keyword>SpellShield</style></link> this round.",
+    "descriptionRaw": "Give an ally SpellShield this round.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Honor the mountain.\" - Taric",
+    "artistName": "Kudos Productions",
+    "name": "Bastion",
+    "cardCode": "03MT019",
+    "keywords": [
+      "Burst"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "Burst",
+    "spellSpeedRef": "Burst",
+    "rarity": "COMMON",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Spell",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03IO002T1",
+      "03IO002T5",
+      "03IO008T1",
+      "03IO002T4"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03IO002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03IO002-full.png"
+      }
+    ],
+    "region": "Ionia",
+    "regionRef": "Ionia",
+    "attack": 2,
+    "cost": 3,
+    "health": 3,
+    "description": "<link=vocab.Support><style=Vocab>Support</style></link>: My supported ally grows up to 4|4 this round.",
+    "descriptionRaw": "Support: My supported ally grows up to 4|4 this round.",
+    "levelupDescription": "Our allies have been <link=vocab.Support><style=Vocab>supported</style></link> 3+ times<style=Variable></style>.",
+    "levelupDescriptionRaw": "Our allies have been supported 3+ times.",
+    "flavorText": "\"Don't you worry, Pix! We're gonna get outta the Glade, and we're gonna adoribus ALL THE THINGS! Are you ready?!\"",
+    "artistName": "SIXMOREVODKA",
+    "name": "Lulu",
+    "cardCode": "03IO002",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "Champion",
+    "rarityRef": "Champion",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "Champion",
+    "type": "Unit",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03IO011.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03IO011-full.png"
+      }
+    ],
+    "region": "Ionia",
+    "regionRef": "Ionia",
+    "attack": 3,
+    "cost": 4,
+    "health": 4,
+    "description": "<link=vocab.Strike><style=Vocab>Strike</style></link>: Double my Power.",
+    "descriptionRaw": "Strike: Double my Power.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "His secret is acorn powder shakes, four times a day.",
+    "artistName": "Dao Le",
+    "name": "Swole Squirrel",
+    "cardCode": "03IO011",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "RARE",
+    "rarityRef": "Rare",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Unit",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03IO009.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03IO009-full.png"
+      }
+    ],
+    "region": "Ionia",
+    "regionRef": "Ionia",
+    "attack": 4,
+    "cost": 3,
+    "health": 2,
+    "description": "",
+    "descriptionRaw": "",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Energy: 104kJ (25 kcal), Carbohydrates: 5.88g, Sugars: 3.53g, Dietary Fiber: 3g, Fat: 0.18g, Protein: 0.98g, Water: 92g...",
+    "artistName": "Dao Le",
+    "name": "Tasty Faefolk",
+    "cardCode": "03IO009",
+    "keywords": [
+      "Lifesteal"
+    ],
+    "keywordRefs": [
+      "Lifesteal"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "COMMON",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Unit",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT023.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT023-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 6,
+    "health": 0,
+    "description": "Deal 6 to a unit.\r\n<link=keyword.Daybreak><style=Keyword>Daybreak</style></link>: Instead, <link=vocab.Silence><style=Vocab>Silence</style></link> it this round and deal 6 to it.",
+    "descriptionRaw": "Deal 6 to a unit.\r\nDaybreak: Instead, Silence it this round and deal 6 to it.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Few things survive a gaze as unflinching as the sun's.",
+    "artistName": "Kudos Productions",
+    "name": "Sunburst",
+    "cardCode": "03MT023",
+    "keywords": [
+      "Slow"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "Slow",
+    "spellSpeedRef": "Slow",
+    "rarity": "RARE",
+    "rarityRef": "Rare",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Spell",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03IO003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03IO003-full.png"
+      }
+    ],
+    "region": "Ionia",
+    "regionRef": "Ionia",
+    "attack": 3,
+    "cost": 4,
+    "health": 3,
+    "description": "<link=vocab.Play><style=Vocab>Play</style></link>: Grant an ally <link=keyword.Elusive><sprite name=Elusive><style=Keyword>Elusive</style></link>.",
+    "descriptionRaw": "Play: Grant an ally Elusive.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Shh! This way! We've gotta make a sharp left after the walking treehouse, then go straight past the talking flowers. Lu, you listening to me? Lu? Lu! LULU! Do. NOT. Feed them. Do not do that.\"",
+    "artistName": "Dao Le",
+    "name": "Fae Guide",
+    "cardCode": "03IO003",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "RARE",
+    "rarityRef": "Rare",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Unit",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT096.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT096-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 1,
+    "cost": 3,
+    "health": 2,
+    "description": "<link=keyword.Daybreak><style=Keyword>Daybreak</style></link>: <link=keyword.Invoke><style=Keyword>Invoke</style></link> a Celestial card that costs 4, 5, or 6.\r\n",
+    "descriptionRaw": "Daybreak: Invoke a Celestial card that costs 4, 5, or 6.\r\n",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "The Solari look to the stars for guidance as much as any other Targonian, for the star dearest to their faith is the sun.",
+    "artistName": "Grafit Studio",
+    "name": "Solari Priestess",
+    "cardCode": "03MT096",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "RARE",
+    "rarityRef": "Rare",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Unit",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03BW006T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03BW006T1-full.png"
+      }
+    ],
+    "region": "Bilgewater",
+    "regionRef": "Bilgewater",
+    "attack": 0,
+    "cost": 0,
+    "health": 0,
+    "description": "Deal 2 to an ally to deal 2 to the enemy Nexus.",
+    "descriptionRaw": "Deal 2 to an ally to deal 2 to the enemy Nexus.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Daub 'em with your blood, and set the sharks loose.\" - Jack, the Winner",
+    "artistName": "Kudos Productions",
+    "name": "Sleep with the Fishes",
+    "cardCode": "03BW006T1",
+    "keywords": [
+      "Slow",
+      "Fleeting"
+    ],
+    "keywordRefs": [
+      "Slow",
+      "Fleeting"
+    ],
+    "spellSpeed": "Slow",
+    "spellSpeedRef": "Slow",
+    "rarity": "None",
+    "rarityRef": "None",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Spell",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT049.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT049-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 5,
+    "health": 0,
+    "description": "Deal 4 to an enemy and 1 to another.",
+    "descriptionRaw": "Deal 4 to an enemy and 1 to another.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Forging stars is a messy business, I'm afraid. You never know where those little rocks will land. I am so terribly, terribly sorry if they happen to fall on you. And crush you. Oh so violently.\" - Aurelion Sol",
+    "artistName": "Kudos Productions",
+    "name": "Meteor Shower",
+    "cardCode": "03MT049",
+    "keywords": [
+      "Slow"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "Slow",
+    "spellSpeedRef": "Slow",
+    "rarity": "None",
+    "rarityRef": "None",
+    "subtype": "CELESTIAL",
+    "subtypes": [
+      "CELESTIAL"
+    ],
+    "supertype": "",
+    "type": "Spell",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03IO008T1",
+      "03IO002",
+      "03IO002T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03IO002T5.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03IO002T5-full.png"
+      }
+    ],
+    "region": "Ionia",
+    "regionRef": "Ionia",
+    "attack": 0,
+    "cost": 4,
+    "health": 0,
+    "description": "Transform a follower into a 1|1 <link=card.summon><style=AssociatedCard>Squirrel</style></link> and <link=vocab.Silence><style=Vocab>Silence</style></link> it this round. Shuffle a <link=card.level1><style=AssociatedCard>Lulu</style></link> into your deck.",
+    "descriptionRaw": "Transform a follower into a 1|1 Squirrel and Silence it this round. Shuffle a Lulu into your deck.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Adoribus!\" - Lulu",
+    "artistName": "Kudos Productions",
+    "name": "Lulu's Whimsy!",
+    "cardCode": "03IO002T5",
+    "keywords": [
+      "Burst"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "Burst",
+    "spellSpeedRef": "Burst",
+    "rarity": "None",
+    "rarityRef": "None",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "Champion",
+    "type": "Spell",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT044.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT044-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 4,
+    "cost": 6,
+    "health": 3,
+    "description": "<link=keyword.Daybreak><style=Keyword>Daybreak</style></link>: Give me +4|+4 this round.",
+    "descriptionRaw": "Daybreak: Give me +4|+4 this round.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Shining guardian, your wrath burns like the noonday sun. Come forth and punish those who would trespass on this sacred place.\" - Sun Guardian's inscription",
+    "artistName": "SIXMOREVODKA",
+    "name": "Sun Guardian",
+    "cardCode": "03MT044",
+    "keywords": [
+      "Overwhelm"
+    ],
+    "keywordRefs": [
+      "Overwhelm"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "EPIC",
+    "rarityRef": "Epic",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Unit",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03FR002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03FR002-full.png"
+      }
+    ],
+    "region": "Freljord",
+    "regionRef": "Freljord",
+    "attack": 0,
+    "cost": 2,
+    "health": 0,
+    "description": "Give an ally +0|+2 to give an enemy -2|-0 this round.",
+    "descriptionRaw": "Give an ally +0|+2 to give an enemy -2|-0 this round.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Troll chants are highly varied. They differ from group to group, and are often incomprehensible. They are all, however, terrifying to witness. ",
+    "artistName": "Kudos Productions",
+    "name": "Troll Chant",
+    "cardCode": "03FR002",
+    "keywords": [
+      "Burst"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "Burst",
+    "spellSpeedRef": "Burst",
+    "rarity": "COMMON",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Spell",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03NX016.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03NX016-full.png"
+      }
+    ],
+    "region": "Noxus",
+    "regionRef": "Noxus",
+    "attack": 0,
+    "cost": 0,
+    "health": 0,
+    "description": "Deal 1 to an ally and an enemy 4 times.",
+    "descriptionRaw": "Deal 1 to an ally and an enemy 4 times.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"It's not the sharpness of the claws you've got to look out for, it's the appetite of the beast that's grown 'em.\" - Basilisk trainer",
+    "artistName": "Kudos Productions",
+    "name": "Gouge",
+    "cardCode": "03NX016",
+    "keywords": [
+      "Skill"
+    ],
+    "keywordRefs": [
+      "Skill"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "COMMON",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Ability",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03IO010.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03IO010-full.png"
+      }
+    ],
+    "region": "Ionia",
+    "regionRef": "Ionia",
+    "attack": 1,
+    "cost": 2,
+    "health": 1,
+    "description": "<link=vocab.Support><style=Vocab>Support</style></link>: Give my supported ally <link=keyword.Quick Strike><sprite name=QuickStrike><style=Keyword>Quick Attack</style></link> and +1|+0 this round.",
+    "descriptionRaw": "Support: Give my supported ally Quick Attack and +1|+0 this round.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Sir Ribery Montague left home hoping to complete some great quest or curry favor with a notable house. But fate led him to a hidden bandlewood, where young Bri quickly transformed Sir Ribery into a frog, and yanked him off on HER adventures. Poor Rib!",
+    "artistName": "Dao Le",
+    "name": "Young Witch",
+    "cardCode": "03IO010",
+    "keywords": [
+      "Elusive"
+    ],
+    "keywordRefs": [
+      "Elusive"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "COMMON",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Unit",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03MT092T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT041.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT041-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 1,
+    "cost": 3,
+    "health": 1,
+    "description": "<link=vocab.Support><style=Vocab>Support</style></link>: Grant my supported ally +2|+2.\r\n<link=keyword.Last Breath><sprite name=LastBreath><style=Keyword>Last Breath</style></link>: Create 3 <link=card.create><style=AssociatedCard>Gems</style></link> in hand.",
+    "descriptionRaw": "Support: Grant my supported ally +2|+2.\r\nLast Breath: Create 3 Gems in hand.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Did you catch anything he said in there?\"\n\"Not a word. Seemed nice, though.\"\n- Emir and Haley, Mountain Sojourners",
+    "artistName": "SIXMOREVODKA",
+    "name": "Mentor of the Stones",
+    "cardCode": "03MT041",
+    "keywords": [
+      "Last Breath"
+    ],
+    "keywordRefs": [
+      "LastBreath"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "EPIC",
+    "rarityRef": "Epic",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Unit",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT043.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT043-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 6,
+    "health": 0,
+    "description": "<link=keyword.Obliterate><style=Keyword>Obliterate</style></link> an enemy.",
+    "descriptionRaw": "Obliterate an enemy.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"I will drive the stars themselves through this insufferable place. It will be GLORIOUS.\" - Aurelion Sol",
+    "artistName": "Kudos Productions",
+    "name": "Falling Comet",
+    "cardCode": "03MT043",
+    "keywords": [
+      "Slow"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "Slow",
+    "spellSpeedRef": "Slow",
+    "rarity": "None",
+    "rarityRef": "None",
+    "subtype": "CELESTIAL",
+    "subtypes": [
+      "CELESTIAL"
+    ],
+    "supertype": "",
+    "type": "Spell",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT028.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT028-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 3,
+    "cost": 2,
+    "health": 2,
+    "description": "<link=keyword.Daybreak><style=Keyword>Daybreak</style></link>: Give me +0|+4 this round.",
+    "descriptionRaw": "Daybreak: Give me +0|+4 this round.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Foolish, not to come under the cover of night.\" The Shieldbearer straightened. \"Lay down your arms, and come peacefully.\"\nThe Lunari crouched in silence, readying her curved blades once more. \nSo be it. \nThe Solari readied herself in turn, lifting her shield to reflect the rays of the rising sun. ",
+    "artistName": "Kudos Productions",
+    "name": "Solari Shieldbearer",
+    "cardCode": "03MT028",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "COMMON",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Unit",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT022.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT022-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 8,
+    "cost": 9,
+    "health": 8,
+    "description": "When I'm summoned, grant me +1|+0 for each Celestial card you played this game. <style=Variable></style>\r\nI am a Dragon.",
+    "descriptionRaw": "When I'm summoned, grant me +1|+0 for each Celestial card you played this game. \r\nI am a Dragon.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Oh yes, my favorite constellation. I like to think it will be the first to rain down upon this forsaken mountain.\" - Aurelion Sol",
+    "artistName": "Kudos Productions",
+    "name": "The Great Beyond",
+    "cardCode": "03MT022",
+    "keywords": [
+      "Elusive",
+      "Fury",
+      "SpellShield"
+    ],
+    "keywordRefs": [
+      "Elusive",
+      "Fury",
+      "SpellShield"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "None",
+    "rarityRef": "None",
+    "subtype": "CELESTIAL",
+    "subtypes": [
+      "CELESTIAL",
+      "DRAGON"
+    ],
+    "supertype": "",
+    "type": "Unit",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT072.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT072-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 5,
+    "cost": 5,
+    "health": 5,
+    "description": "",
+    "descriptionRaw": "",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Countless challenges await those climbing Mount Targon. Some, like the endless ascent, slowly sap the aspirants' strength. Others are much more immediate.",
+    "artistName": "Jihun Lee",
+    "name": "Fused Firebrand",
+    "cardCode": "03MT072",
+    "keywords": [
+      "Fury",
+      "SpellShield"
+    ],
+    "keywordRefs": [
+      "Fury",
+      "SpellShield"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "COMMON",
+    "rarityRef": "Common",
+    "subtype": "DRAGON",
+    "subtypes": [
+      "DRAGON"
+    ],
+    "supertype": "",
+    "type": "Unit",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03MT092T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT025.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT025-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 4,
+    "health": 0,
+    "description": "Fill your hand with <link=card.create><style=AssociatedCard>Gems</style></link>.",
+    "descriptionRaw": "Fill your hand with Gems.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Turn a gem just so, and it glimmers in the light. Like mortal lives, each has its own inner fire.\" - Taric",
+    "artistName": "Kudos Productions",
+    "name": "Shards of the Mountain",
+    "cardCode": "03MT025",
+    "keywords": [
+      "Slow"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "Slow",
+    "spellSpeedRef": "Slow",
+    "rarity": "EPIC",
+    "rarityRef": "Epic",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Spell",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03MT018"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT017.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT017-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 1,
+    "health": 0,
+    "description": "Shuffle 5 <link=card.shuffle><style=AssociatedCard>The Messengers</style></link> into your deck.",
+    "descriptionRaw": "Shuffle 5 The Messengers into your deck.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Time passes, skies turn--the Serpent moves aside and the Messenger takes its place overhead. A season of abundance awaits...\" - Lunari Priestess",
+    "artistName": "Max Grecke",
+    "name": "Messenger's Sigil",
+    "cardCode": "03MT017",
+    "keywords": [
+      "Burst"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "Burst",
+    "spellSpeedRef": "Burst",
+    "rarity": "RARE",
+    "rarityRef": "Rare",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Spell",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT051.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT051-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 2,
+    "health": 0,
+    "description": "Heal an ally or your Nexus 2. Draw 1.",
+    "descriptionRaw": "Heal an ally or your Nexus 2. Draw 1.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Stellacorns shine brightest when they are happy.",
+    "artistName": "Kudos Productions",
+    "name": "Guiding Touch",
+    "cardCode": "03MT051",
+    "keywords": [
+      "Burst"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "Burst",
+    "spellSpeedRef": "Burst",
+    "rarity": "COMMON",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Spell",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT012.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT012-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 6,
+    "cost": 10,
+    "health": 6,
+    "description": "Reduce my cost by 1 for each time you've targeted or supported allies this game.",
+    "descriptionRaw": "Reduce my cost by 1 for each time you've targeted or supported allies this game.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "The Arbiter is the mountain's final test, for only the guardian sees beyond the climber's deeds, and into their spirit.",
+    "artistName": "SIXMOREVODKA",
+    "name": "Arbiter of the Peak",
+    "cardCode": "03MT012",
+    "keywords": [
+      "Overwhelm"
+    ],
+    "keywordRefs": [
+      "Overwhelm"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "EPIC",
+    "rarityRef": "Epic",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Unit",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03FR011.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03FR011-full.png"
+      }
+    ],
+    "region": "Freljord",
+    "regionRef": "Freljord",
+    "attack": 7,
+    "cost": 8,
+    "health": 7,
+    "description": "",
+    "descriptionRaw": "",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "They felt it before they heard it, the ground trembling beneath their feet, but it quickly became audible, like distant thunder drawing closer.\nMeyrick lifted his head, eyes wide, listening.\n\"What is it?\" Anya whispered urgently, drawing her bow, but Meyrick was already sprinting back toward the path. \n\"RUN!\"",
+    "artistName": "MAR Studio",
+    "name": "Uzgar the Ancient",
+    "cardCode": "03FR011",
+    "keywords": [
+      "Challenger",
+      "Regeneration"
+    ],
+    "keywordRefs": [
+      "Challenger",
+      "Regeneration"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "RARE",
+    "rarityRef": "Rare",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Unit",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT094.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT094-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 2,
+    "cost": 2,
+    "health": 3,
+    "description": "<link=keyword.Nightfall><style=Keyword>Nightfall</style></link>: Grant me <link=keyword.Elusive><sprite name=Elusive><style=Keyword>Elusive</style></link>.",
+    "descriptionRaw": "Nightfall: Grant me Elusive.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Let us cast our eyes toward the heavens, toward the sun, toward our lady's li-- Wait... What...? What is that...?\" - Solari Priest",
+    "artistName": "Kudos Productions",
+    "name": "Lunari Shadestalker",
+    "cardCode": "03MT094",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "COMMON",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Unit",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT054T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT054T3-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 0,
+    "health": 0,
+    "description": "<link=keyword.Stun><sprite name=Stunned><style=Keyword>Stun</style></link> the <link=vocab.Strongest><style=Vocab>Strongest</style></link> enemy.",
+    "descriptionRaw": "Stun the Strongest enemy.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"The closer they stretch toward the heavens, the more the sun will burn them.\" - Leona\n",
+    "artistName": "Kudos Production",
+    "name": "Solar Flare",
+    "cardCode": "03MT054T3",
+    "keywords": [
+      "Skill"
+    ],
+    "keywordRefs": [
+      "Skill"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "COMMON",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Ability",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT076.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT076-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 2,
+    "cost": 4,
+    "health": 3,
+    "description": "Your Celestial cards cost 1 less.\r\n<link=vocab.Allegiance><style=Vocab>Allegiance</style></link>: <link=keyword.Invoke><style=Keyword>Invoke</style></link>.",
+    "descriptionRaw": "Your Celestial cards cost 1 less.\r\nAllegiance: Invoke.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"There is much to learn from the stars, from their guidance. For us, they are a constant, a way to chart our path.\"",
+    "artistName": "SIXMOREVODKA",
+    "name": "Mountain Scryer",
+    "cardCode": "03MT076",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "RARE",
+    "rarityRef": "Rare",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Unit",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03FR005.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03FR005-full.png"
+      }
+    ],
+    "region": "Freljord",
+    "regionRef": "Freljord",
+    "attack": 3,
+    "cost": 4,
+    "health": 5,
+    "description": "When I'm summoned, if you <link=vocab.Behold><style=Vocab>Behold</style></link> an 8+ cost card, grant me <link=keyword.Regeneration><sprite name=Regeneration><style=Keyword>Regeneration</style></link>.",
+    "descriptionRaw": "When I'm summoned, if you Behold an 8+ cost card, grant me Regeneration.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Once they were among the Avarosan huts, they called Hgar forward. With a laugh, she raised Snowsunder, ready to use the weapon to batter the wooden homes into little more than splinters.",
+    "artistName": "MAR Studio",
+    "name": "Troll Ravager",
+    "cardCode": "03FR005",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "COMMON",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Unit",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03SI005T3",
+      "03SI005T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03SI005.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03SI005-full.png"
+      }
+    ],
+    "region": "Shadow Isles",
+    "regionRef": "ShadowIsles",
+    "attack": 5,
+    "cost": 4,
+    "health": 3,
+    "description": "<link=keyword.Nightfall><style=Keyword>Nightfall</style></link>: Grant an enemy <link=keyword.Vulnerable><sprite name=Vulnerable><style=Keyword>Vulnerable</style></link> and give enemies <nobr>-1|-0</nobr> this round.",
+    "descriptionRaw": "Nightfall: Grant an enemy Vulnerable and give enemies -1|-0 this round.",
+    "levelupDescription": "You've attacked with 5+ <link=keyword.Nightfall><style=Keyword>Nightfall</style></link> allies<style=Variable></style>.",
+    "levelupDescriptionRaw": "You've attacked with 5+ Nightfall allies.",
+    "flavorText": "\"It appears that, once enough souls have been shaken, it breaches our world. Only hope can send the monstrosity back to its realm... but hope died here long ago, on a queen's final breath, and with a king's eternal scream.\"\n- Notes of Jens Tommen, historian",
+    "artistName": "SIXMOREVODKA",
+    "name": "Nocturne",
+    "cardCode": "03SI005",
+    "keywords": [
+      "Fearsome"
+    ],
+    "keywordRefs": [
+      "Fearsome"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "Champion",
+    "rarityRef": "Champion",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "Champion",
+    "type": "Unit",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03IO002T5",
+      "03IO002",
+      "03IO008T1",
+      "03IO002T4"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03IO002T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03IO002T1-full.png"
+      }
+    ],
+    "region": "Ionia",
+    "regionRef": "Ionia",
+    "attack": 3,
+    "cost": 3,
+    "health": 4,
+    "description": "<link=vocab.RoundStart><style=Vocab>Round Start</style></link>: Create a <link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>Fleeting</style></link> <link=card.create><style=AssociatedCard>Help, Pix!</style></link> in hand.\r\n<link=vocab.Support><style=Vocab>Support</style></link>: My supported ally grows up to 5|5 this round.",
+    "descriptionRaw": "Round Start: Create a Fleeting Help, Pix! in hand.\r\nSupport: My supported ally grows up to 5|5 this round.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Oooh! Look, Pix! It's a whole different world out here! Now let's give it lots of colors!\"",
+    "artistName": "SIXMOREVODKA",
+    "name": "Lulu",
+    "cardCode": "03IO002T1",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "None",
+    "rarityRef": "None",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "Champion",
+    "type": "Unit",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03FR018.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03FR018-full.png"
+      }
+    ],
+    "region": "Freljord",
+    "regionRef": "Freljord",
+    "attack": 0,
+    "cost": 3,
+    "health": 0,
+    "description": "For the top 4 cards in your deck, draw each Yeti, Poro, and Elnuk. Then shuffle the rest into your deck.",
+    "descriptionRaw": "For the top 4 cards in your deck, draw each Yeti, Poro, and Elnuk. Then shuffle the rest into your deck.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"...an' then a BIIIIG HUUUGE ELNUK came FLYIN' out of the trees with a teeny lil' poro on his back an' there was a FRIENDLY YETI as well because he wanted to play with his friends an' they all ran down the mountain goin' RAAAAAWRRRR an' then...\" - Ingvar the Younger",
+    "artistName": "Kudos Productions",
+    "name": "Call the Wild",
+    "cardCode": "03FR018",
+    "keywords": [
+      "Burst"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "Burst",
+    "spellSpeedRef": "Burst",
+    "rarity": "COMMON",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Spell",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03MT087T2",
+      "03MT087T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT087.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT087-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 10,
+    "cost": 10,
+    "health": 10,
+    "description": "<link=vocab.Play><style=Vocab>Play</style></link>: <link=keyword.Invoke><style=Keyword>Invoke</style></link> a Celestial card that costs 7 or more.\r\n<link=vocab.RoundStart><style=Vocab>Round Start</style></link>: Create a random Celestial card in hand.",
+    "descriptionRaw": "Play: Invoke a Celestial card that costs 7 or more.\r\nRound Start: Create a random Celestial card in hand.",
+    "levelupDescription": "<link=vocab.RoundEnd><style=Vocab>Round End</style></link>: Your allies have 20+ total Power<style=Variable></style>.",
+    "levelupDescriptionRaw": "Round End: Your allies have 20+ total Power.",
+    "flavorText": "\"I don't care what you write about me, you middling creature! Just make sure I'm described as handsome. And magnificent. And also very, very intelligent. Can you spell that?\"",
+    "artistName": "SIXMOREVODKA",
+    "name": "Aurelion Sol",
+    "cardCode": "03MT087",
+    "keywords": [
+      "Fury",
+      "SpellShield"
+    ],
+    "keywordRefs": [
+      "Fury",
+      "SpellShield"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "Champion",
+    "rarityRef": "Champion",
+    "subtype": "DRAGON",
+    "subtypes": [
+      "DRAGON"
+    ],
+    "supertype": "Champion",
+    "type": "Unit",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03MT058T2",
+      "03MT058"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT058T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT058T1-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 3,
+    "cost": 4,
+    "health": 5,
+    "description": "<link=vocab.Support><style=Vocab>Support</style></link>: My supported ally and I can't take damage or die this round. Copy the last spell you cast on only me this round onto that ally <style=Parentheses>(It can't be copied again)</style>.",
+    "descriptionRaw": "Support: My supported ally and I can't take damage or die this round. Copy the last spell you cast on only me this round onto that ally (It can't be copied again).",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Why should Taric show his fellow man kindness? Well, he came to Targon a broken man, intent on climbing the mountain to atone for his sins... and he succeeded. Nobody knows better that all broken things can be made beautiful again.\" - Mountain Scryer",
+    "artistName": "SIXMOREVODKA",
+    "name": "Taric",
+    "cardCode": "03MT058T1",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "None",
+    "rarityRef": "None",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "Champion",
+    "type": "Unit",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT029.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT029-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 1,
+    "health": 3,
+    "description": "When you heal a damaged ally, grant me +2|+0.",
+    "descriptionRaw": "When you heal a damaged ally, grant me +2|+0.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Ever since I first saw one streak across the night sky, I've loved stellacorns. If only I'd known then that I'd meet so many!\"",
+    "artistName": "SIXMOREVODKA",
+    "name": "Star Shepherd",
+    "cardCode": "03MT029",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "RARE",
+    "rarityRef": "Rare",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Unit",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03FR010.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03FR010-full.png"
+      }
+    ],
+    "region": "Freljord",
+    "regionRef": "Freljord",
+    "attack": 0,
+    "cost": 2,
+    "health": 2,
+    "description": "<link=vocab.RoundStart><style=Vocab>Round Start</style></link>: If you <link=vocab.Behold><style=Vocab>Behold</style></link> an 8+ cost card, get an extra mana gem this round.",
+    "descriptionRaw": "Round Start: If you Behold an 8+ cost card, get an extra mana gem this round.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Rise, Old Ones, rise,\nRule of ice, break the sky.\nRise, Old Ones, rise,\nBring us strength, them demise.\"\n- Troll chant",
+    "artistName": "Wild Blue Studio",
+    "name": "Faces of the Old Ones",
+    "cardCode": "03FR010",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "COMMON",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Unit",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT078.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT078-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 8,
+    "health": 0,
+    "description": "If you <link=vocab.Behold><style=Vocab>Behold</style></link> a Celestial card, <link=keyword.Obliterate><style=Keyword>Obliterate</style></link> enemies with 3 or less Power.",
+    "descriptionRaw": "If you Behold a Celestial card, Obliterate enemies with 3 or less Power.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "In the dark beginning, a spark of creation rippled through the universe. What sound it made, what light it shone, we will never know, for there were not yet then words to describe, nor yet ears or eyes to perceive it. ",
+    "artistName": "Kudos Productions",
+    "name": "Cosmic Rays",
+    "cardCode": "03MT078",
+    "keywords": [
+      "Slow"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "Slow",
+    "spellSpeedRef": "Slow",
+    "rarity": "None",
+    "rarityRef": "None",
+    "subtype": "CELESTIAL",
+    "subtypes": [
+      "CELESTIAL"
+    ],
+    "supertype": "",
+    "type": "Spell",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT092T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT092T1-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 1,
+    "health": 0,
+    "description": "Heal an ally 1 and grant it +1|+0.\r\nCan't be cast in combat or in response to a spell.",
+    "descriptionRaw": "Heal an ally 1 and grant it +1|+0.\r\nCan't be cast in combat or in response to a spell.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"You don't need to see to believe. Just have a little faith.\" - Tyari the Traveler",
+    "artistName": "Kudos Productions",
+    "name": "Gem",
+    "cardCode": "03MT092T1",
+    "keywords": [
+      "Burst"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "Burst",
+    "spellSpeedRef": "Burst",
+    "rarity": "None",
+    "rarityRef": "None",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Spell",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT062.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT062-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 2,
+    "cost": 3,
+    "health": 2,
+    "description": "<link=vocab.Play><style=Vocab>Play</style></link>: If you <link=vocab.Behold><style=Vocab>Behold</style></link> a Celestial card, grant an ally +1|+1 and <link=keyword.SpellShield><sprite name=SpellShield><style=Keyword>SpellShield</style></link>.",
+    "descriptionRaw": "Play: If you Behold a Celestial card, grant an ally +1|+1 and SpellShield.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"...and then a sparklefly is like stardust that falls down to the ground and then flies back up and they're amazing and I saw one last night that was so pretty and I'm hungry and it flew up all the way to the STARS and then...\"",
+    "artistName": "Dao Le",
+    "name": "Giddy Sparkleologist",
+    "cardCode": "03MT062",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "RARE",
+    "rarityRef": "Rare",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Unit",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT082.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT082-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 5,
+    "health": 0,
+    "description": "Give allies +2|+2 this round.\r\n<link=keyword.Daybreak><style=Keyword>Daybreak</style></link>: Activate all ally <link=keyword.Daybreak><style=Keyword>Daybreak</style></link> effects at once.",
+    "descriptionRaw": "Give allies +2|+2 this round.\r\nDaybreak: Activate all ally Daybreak effects at once.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"We rise with the dawn! March into the light!\" - Leona",
+    "artistName": "Kudos Productions",
+    "name": "Morning Light",
+    "cardCode": "03MT082",
+    "keywords": [
+      "Slow"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "Slow",
+    "spellSpeedRef": "Slow",
+    "rarity": "RARE",
+    "rarityRef": "Rare",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Spell",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT065.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT065-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 1,
+    "health": 0,
+    "description": "<link=vocab.Silence><style=Vocab>Silence</style></link> a follower.",
+    "descriptionRaw": "Silence a follower.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "In the space between the stars, there is absolute silence.",
+    "artistName": "Max Grecke",
+    "name": "Equinox",
+    "cardCode": "03MT065",
+    "keywords": [
+      "Slow"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "Slow",
+    "spellSpeedRef": "Slow",
+    "rarity": "None",
+    "rarityRef": "None",
+    "subtype": "CELESTIAL",
+    "subtypes": [
+      "CELESTIAL"
+    ],
+    "supertype": "",
+    "type": "Spell",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT047.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT047-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 4,
+    "cost": 6,
+    "health": 2,
+    "description": "<link=keyword.Nightfall><style=Keyword>Nightfall</style></link>: Give me and an ally <link=keyword.Elusive><sprite name=Elusive><style=Keyword>Elusive</style></link> this round.",
+    "descriptionRaw": "Nightfall: Give me and an ally Elusive this round.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "The Lunari waited for nightfall and the safety it assured. The path ahead seemed deserted, but Cygnus knew the Solari camp lay just beyond. He gestured, and the others quietly fell in line behind him.",
+    "artistName": "JiHun Lee",
+    "name": "Cygnus the Moonstalker",
+    "cardCode": "03MT047",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "EPIC",
+    "rarityRef": "Epic",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Unit",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT038.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT038-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 4,
+    "cost": 4,
+    "health": 4,
+    "description": "",
+    "descriptionRaw": "",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "It was the children of Targon who first befriended the younger, more peaceful dragons. Perhaps these juvenile creatures could sense the children's innocent curiosity, and chose, instead of causing them harm, to offer them protection. ",
+    "artistName": "Aron Elekes",
+    "name": "Whiteflame Protector",
+    "cardCode": "03MT038",
+    "keywords": [
+      "Fury"
+    ],
+    "keywordRefs": [
+      "Fury"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "COMMON",
+    "rarityRef": "Common",
+    "subtype": "DRAGON",
+    "subtypes": [
+      "DRAGON"
+    ],
+    "supertype": "",
+    "type": "Unit",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT050.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT050-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 5,
+    "cost": 5,
+    "health": 5,
+    "description": "",
+    "descriptionRaw": "",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "The strongest star in the night's sky, they say, is that of the warrior. An ancient being, thought immortal, who descends from the stars to prove his worth in combat. Never has he been beaten, but all stories must end, and all stars must die.",
+    "artistName": "Kudos Productions",
+    "name": "The Warrior",
+    "cardCode": "03MT050",
+    "keywords": [
+      "Challenger"
+    ],
+    "keywordRefs": [
+      "Challenger"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "None",
+    "rarityRef": "None",
+    "subtype": "CELESTIAL",
+    "subtypes": [
+      "CELESTIAL"
+    ],
+    "supertype": "",
+    "type": "Unit",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03MT087",
+      "03MT087T1",
+      "03MT087"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT087T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT087T2-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 15,
+    "health": 0,
+    "description": "Deal 15 to all enemies.\r\nCosts 2 less for each Dragon or Celestial ally you have.\r\nShuffle a <link=card.level1><style=AssociatedCard>Aurelion Sol</style></link> into your deck.",
+    "descriptionRaw": "Deal 15 to all enemies.\r\nCosts 2 less for each Dragon or Celestial ally you have.\r\nShuffle a Aurelion Sol into your deck.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"When the time comes, I think I'll make an example of Runeterra. Perhaps I'll drag its smoldering husk around with me for all eternity. Like a toy. A dead, worthless toy. I don't know. I've not really thought about it much.\" - Aurelion Sol",
+    "artistName": "Kudos Productions",
+    "name": "Aurelion Sol's The Skies Descend",
+    "cardCode": "03MT087T2",
+    "keywords": [
+      "Slow"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "Slow",
+    "spellSpeedRef": "Slow",
+    "rarity": "None",
+    "rarityRef": "None",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "Champion",
+    "type": "Spell",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT081.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT081-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 2,
+    "cost": 5,
+    "health": 5,
+    "description": "<link=vocab.Support><style=Vocab>Support</style></link>: Grant my supported ally +2|+2. If it has <link=vocab.Support><style=Vocab>Support</style></link>, grant its supported ally +2|+2 and continue for each supported ally in succession.",
+    "descriptionRaw": "Support: Grant my supported ally +2|+2. If it has Support, grant its supported ally +2|+2 and continue for each supported ally in succession.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Every person who braves Mount Targon has their reason to climb. Some do it to prove themselves in the eyes of their peers. Others, to prove something to themselves.",
+    "artistName": "SIXMOREVODKA",
+    "name": "Mountain Sojourners",
+    "cardCode": "03MT081",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "EPIC",
+    "rarityRef": "Epic",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Unit",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03PZ017.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03PZ017-full.png"
+      }
+    ],
+    "region": "Piltover & Zaun",
+    "regionRef": "PiltoverZaun",
+    "attack": 0,
+    "cost": 4,
+    "health": 0,
+    "description": "Deal 1 to a unit. Summon a random <style=Variable>1</style> cost unit. While I'm in hand, increase both by 1 when you play a 3 cost card.",
+    "descriptionRaw": "Deal 1 to a unit. Summon a random 1 cost unit. While I'm in hand, increase both by 1 when you play a 3 cost card.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"...and in one, two, and THREE!!! Oh. Oh, my word... Yet another unforeseen outcome?!\" - Heimerdinger",
+    "artistName": "Kudos Productions",
+    "name": "Tri-beam Improbulator",
+    "cardCode": "03PZ017",
+    "keywords": [
+      "Slow"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "Slow",
+    "spellSpeedRef": "Slow",
+    "rarity": "EPIC",
+    "rarityRef": "Epic",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Spell",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT007.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT007-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 1,
+    "cost": 3,
+    "health": 2,
+    "description": "",
+    "descriptionRaw": "",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Like any fledgling, young stellacorns must eventually take their first faltering flight. In this, they are just like other stars in the night sky, for they fall just as readily. Luckily, we are here to catch them, and when they are ready, return them.\" - Lidari, Keeper of the Stars",
+    "artistName": "SIXMOREVODKA",
+    "name": "Fledgling Stellacorn",
+    "cardCode": "03MT007",
+    "keywords": [
+      "Lifesteal",
+      "SpellShield"
+    ],
+    "keywordRefs": [
+      "Lifesteal",
+      "SpellShield"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "COMMON",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Unit",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT015.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT015-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 2,
+    "health": 0,
+    "description": "<link=keyword.Invoke><style=Keyword>Invoke</style></link>.",
+    "descriptionRaw": "Invoke.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "The heavens hang over you, a tapestry of black lit with twinkling stars. You are small and dim against its vastness. Where will you turn your gaze first?",
+    "artistName": "Kudos Productions",
+    "name": "Behold the Infinite ",
+    "cardCode": "03MT015",
+    "keywords": [
+      "Burst"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "Burst",
+    "spellSpeedRef": "Burst",
+    "rarity": "COMMON",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Spell",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03SI006T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03SI006T1-full.png"
+      }
+    ],
+    "region": "Shadow Isles",
+    "regionRef": "ShadowIsles",
+    "attack": 0,
+    "cost": 0,
+    "health": 0,
+    "description": "Drain 2 from the enemy Nexus.",
+    "descriptionRaw": "Drain 2 from the enemy Nexus.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "What knows you better than your own mind? What can torment you more exquisitely than your own dreams?",
+    "artistName": "Kudos Productions",
+    "name": "Torment",
+    "cardCode": "03SI006T1",
+    "keywords": [
+      "Skill"
+    ],
+    "keywordRefs": [
+      "Skill"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "None",
+    "rarityRef": "None",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Ability",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03MT058",
+      "03MT058T1",
+      "03MT058"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT058T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT058T2-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 5,
+    "health": 0,
+    "description": "Grant an ally +3|+3.\r\nShuffle a <link=card.level1><style=AssociatedCard>Taric</style></link> into your deck.",
+    "descriptionRaw": "Grant an ally +3|+3.\r\nShuffle a Taric into your deck.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"A little something from Targon.\" - Taric",
+    "artistName": "Max Grecke",
+    "name": "Taric's Blessing of Targon",
+    "cardCode": "03MT058T2",
+    "keywords": [
+      "Burst"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "Burst",
+    "spellSpeedRef": "Burst",
+    "rarity": "None",
+    "rarityRef": "None",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "Champion",
+    "type": "Spell",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03FR006T1",
+      "03FR006T3",
+      "03FR006T2"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03FR006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03FR006-full.png"
+      }
+    ],
+    "region": "Freljord",
+    "regionRef": "Freljord",
+    "attack": 4,
+    "cost": 5,
+    "health": 6,
+    "description": "When I'm summoned, create an <link=card.create><style=AssociatedCard>Ice Pillar</style></link> in hand.",
+    "descriptionRaw": "When I'm summoned, create an Ice Pillar in hand.",
+    "levelupDescription": "I've seen you play <link=card.create><style=AssociatedCard>Ice Pillar</style></link>.",
+    "levelupDescriptionRaw": "I've seen you play Ice Pillar.",
+    "flavorText": "One by one, torches lit along the pass, throwing the scene into sharp relief. There were dozens of trolls, maybe hundreds, each one hulking, massive, and deadly.\n\"I'll ask one more time,\" Trundle snarled, hefting Boneshiver over one shoulder. \"Are you gonna give up, or am I gonna have to break your skulls?\"",
+    "artistName": "SIXMOREVODKA",
+    "name": "Trundle",
+    "cardCode": "03FR006",
+    "keywords": [
+      "Regeneration"
+    ],
+    "keywordRefs": [
+      "Regeneration"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "Champion",
+    "rarityRef": "Champion",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "Champion",
+    "type": "Unit",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03MT054T3",
+      "03MT054T2",
+      "03MT054"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT054T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT054T1-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 4,
+    "cost": 4,
+    "health": 6,
+    "description": "<link=keyword.PlaySkillMark><sprite name=PlaySkillMark><style=Keyword></style></link><link=keyword.Daybreak><style=Keyword>Daybreak</style></link> or when you activate another <link=keyword.Daybreak><style=Keyword>Daybreak</style></link>: <link=keyword.Stun><sprite name=Stunned><style=Keyword>Stun</style></link> the <link=vocab.Strongest><style=Vocab>Strongest</style></link> enemy.",
+    "descriptionRaw": "Daybreak or when you activate another Daybreak: Stun the Strongest enemy.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "This was what Leona had prepared for. She knew she would find Diana fleeing down the mountain, retreating before the light of the sun. She breathed deeply to still her fluttering heartbeat, willing it silent with grim resolve. This time upon their meeting, she had the upper hand; this time, she would face her old friend head-on.",
+    "artistName": "SIXMOREVODKA",
+    "name": "Leona",
+    "cardCode": "03MT054T1",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "None",
+    "rarityRef": "None",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "Champion",
+    "type": "Unit",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03SI003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03SI003-full.png"
+      }
+    ],
+    "region": "Shadow Isles",
+    "regionRef": "ShadowIsles",
+    "attack": 2,
+    "cost": 1,
+    "health": 1,
+    "description": "<link=keyword.Nightfall><style=Keyword>Nightfall</style></link>: Give me +2|+0 and <link=keyword.Fearsome><sprite name=Fearsome><style=Keyword>Fearsome</style></link> this round.",
+    "descriptionRaw": "Nightfall: Give me +2|+0 and Fearsome this round.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "As the sun melts into pitch, the terrors of this place wake, watch, and wait.",
+    "artistName": "SIXMOREVODKA",
+    "name": "Stygian Onlooker",
+    "cardCode": "03SI003",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "COMMON",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Unit",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03NX016"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03NX017.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03NX017-full.png"
+      }
+    ],
+    "region": "Noxus",
+    "regionRef": "Noxus",
+    "attack": 7,
+    "cost": 7,
+    "health": 4,
+    "description": "<link=keyword.PlaySkillMark><sprite name=PlaySkillMark><style=Keyword>Play</style></link>: Deal 1 to an ally and an enemy 4 times.",
+    "descriptionRaw": "Play: Deal 1 to an ally and an enemy 4 times.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "The basilisk trainers withhold live food from the beasts in the days leading up to battle. By the time the creatures are unleashed, they do not distinguish friend from foe, and are utterly indomitable.",
+    "artistName": "Kudos Productions",
+    "name": "Basilisk Bloodseeker",
+    "cardCode": "03NX017",
+    "keywords": [
+      "Overwhelm"
+    ],
+    "keywordRefs": [
+      "Overwhelm"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "EPIC",
+    "rarityRef": "Epic",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Unit",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT026.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT026-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 5,
+    "cost": 5,
+    "health": 5,
+    "description": "<link=keyword.Daybreak><style=Keyword>Daybreak</style></link>: Create a random <link=keyword.Daybreak><style=Keyword>Daybreak</style></link> card in hand.\r\nIt's always Day for us.",
+    "descriptionRaw": "Daybreak: Create a random Daybreak card in hand.\r\nIt's always Day for us.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Keep your faith, Ra-Horak, and our light shall never falter!\"",
+    "artistName": "JiHun Lee",
+    "name": "Rahvun, Daylight's Spear",
+    "cardCode": "03MT026",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "RARE",
+    "rarityRef": "Rare",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Unit",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03SI002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03SI002-full.png"
+      }
+    ],
+    "region": "Shadow Isles",
+    "regionRef": "ShadowIsles",
+    "attack": 0,
+    "cost": 2,
+    "health": 0,
+    "description": "Drain 1 from anything.\r\n<link=keyword.Nightfall><style=Keyword>Nightfall</style></link>: Create a random <link=keyword.Nightfall><style=Keyword>Nightfall</style></link> card in hand.",
+    "descriptionRaw": "Drain 1 from anything.\r\nNightfall: Create a random Nightfall card in hand.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Every passing day saps my spirit, pulls from me the vigor that compelled me to find this place. The Whale's Tooth is full of haggard folk, seemingly lost to all endeavor, and I fear the longer I stay, the more like them I become.\"\n- Notes of Jens Tommen, historian",
+    "artistName": "Kudos Productions",
+    "name": "Unspeakable Horror",
+    "cardCode": "03SI002",
+    "keywords": [
+      "Fast"
+    ],
+    "keywordRefs": [
+      "Fast"
+    ],
+    "spellSpeed": "Fast",
+    "spellSpeedRef": "Fast",
+    "rarity": "COMMON",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Spell",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "01PZ020"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03PZ018.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03PZ018-full.png"
+      }
+    ],
+    "region": "Piltover & Zaun",
+    "regionRef": "PiltoverZaun",
+    "attack": 0,
+    "cost": 0,
+    "health": 0,
+    "description": "To play, discard 1.\r\nCreate 2 <link=card.create><style=AssociatedCard>Daring Poros</style></link> in hand.",
+    "descriptionRaw": "To play, discard 1.\r\nCreate 2 Daring Poros in hand.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Two downy shapes arced gracefully over the adoring crowd, leaving a cloud of fluff and the faint scent of baked goods in their wake.",
+    "artistName": "Kudos Productions",
+    "name": "Poro Cannon",
+    "cardCode": "03PZ018",
+    "keywords": [
+      "Burst"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "Burst",
+    "spellSpeedRef": "Burst",
+    "rarity": "COMMON",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Spell",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT003-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 3,
+    "health": 0,
+    "description": "Draw 2 different Dragons or grant Dragon allies +1|+1.",
+    "descriptionRaw": "Draw 2 different Dragons or grant Dragon allies +1|+1.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Their cry sounds like a raspy cat. If you ever hear it, you're to turn tail, and find the nearest guard. You hear? Because where there's dragon eggs, there's dragons.\" - Targonian forager",
+    "artistName": "Kudos Productions",
+    "name": "Dragon's Clutch",
+    "cardCode": "03MT003",
+    "keywords": [
+      "Burst"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "Burst",
+    "spellSpeedRef": "Burst",
+    "rarity": "RARE",
+    "rarityRef": "Rare",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Spell",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT011.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT011-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 3,
+    "health": 0,
+    "description": "<link=keyword.Stun><sprite name=Stunned><style=Keyword>Stun</style></link> 2 enemies.",
+    "descriptionRaw": "Stun 2 enemies.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Even the moon's glow can be blinding.\" - Diana\n\n",
+    "artistName": "Kudos Productions",
+    "name": "Crescent Strike",
+    "cardCode": "03MT011",
+    "keywords": [
+      "Slow"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "Slow",
+    "spellSpeedRef": "Slow",
+    "rarity": "None",
+    "rarityRef": "None",
+    "subtype": "CELESTIAL",
+    "subtypes": [
+      "CELESTIAL"
+    ],
+    "supertype": "",
+    "type": "Spell",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT088.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT088-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 2,
+    "cost": 1,
+    "health": 2,
+    "description": "<link=keyword.Daybreak><style=Keyword>Daybreak</style></link>: Give me +1|+1 this round.",
+    "descriptionRaw": "Daybreak: Give me +1|+1 this round.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "As the sun warmed him, he stood watch at the heretic's prison, ignoring the soft pleas that quickly turned to bitter silence.",
+    "artistName": "Wild Blue Studio",
+    "name": "Solari Soldier",
+    "cardCode": "03MT088",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "COMMON",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Unit",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT089.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT089-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 3,
+    "cost": 3,
+    "health": 3,
+    "description": "<link=keyword.Nightfall><style=Keyword>Nightfall</style></link>: Grant me +2|+0.",
+    "descriptionRaw": "Nightfall: Grant me +2|+0.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Stoic guardian, the gentle touch of the full moon restores your strength. Awaken and safeguard us from those who would trespass upon this sacred place.\" - Crescent Guardian's inscription",
+    "artistName": "Aron Elekes",
+    "name": "Crescent Guardian",
+    "cardCode": "03MT089",
+    "keywords": [
+      "Overwhelm"
+    ],
+    "keywordRefs": [
+      "Overwhelm"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "RARE",
+    "rarityRef": "Rare",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Unit",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "01DE016"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03DE012.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03DE012-full.png"
+      }
+    ],
+    "region": "Demacia",
+    "regionRef": "Demacia",
+    "attack": 0,
+    "cost": 8,
+    "health": 0,
+    "description": "When you summon an Elite, reduce my cost by 1.\r\nFor each ally that died this round, summon a <link=card.summon><style=AssociatedCard>Dauntless Vanguard</style></link>.",
+    "descriptionRaw": "When you summon an Elite, reduce my cost by 1.\r\nFor each ally that died this round, summon a Dauntless Vanguard.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"If a soldier falls, another must take their place. Our banner must never fall.\" - Garen",
+    "artistName": "Kudos Productions",
+    "name": "For The Fallen",
+    "cardCode": "03DE012",
+    "keywords": [
+      "Slow"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "Slow",
+    "spellSpeedRef": "Slow",
+    "rarity": "EPIC",
+    "rarityRef": "Epic",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Spell",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03MT056T2",
+      "03MT056T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT056.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT056-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 2,
+    "cost": 2,
+    "health": 2,
+    "description": "<link=keyword.Nightfall><style=Keyword>Nightfall</style></link>: Give me <link=keyword.Challenger><sprite name=Challenger><style=Keyword>Challenger</style></link> this round.",
+    "descriptionRaw": "Nightfall: Give me Challenger this round.",
+    "levelupDescription": "You've activated <link=keyword.Nightfall><style=Keyword>Nightfall</style></link> 4+ times<style=Variable></style>.",
+    "levelupDescriptionRaw": "You've activated Nightfall 4+ times.",
+    "flavorText": "She stood amidst them as she prepared for battle--radiating light, bedecked in silver and blue, her eyes like stars. As the moon rose and shone down on her, each of the Lunari gathered there closed their eyes in silent prayer for her safety, and in gratitude.",
+    "artistName": "SIXMOREVODKA",
+    "name": "Diana",
+    "cardCode": "03MT056",
+    "keywords": [
+      "Quick Attack"
+    ],
+    "keywordRefs": [
+      "QuickStrike"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "Champion",
+    "rarityRef": "Champion",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "Champion",
+    "type": "Unit",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03MT073T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT073.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT073-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 2,
+    "cost": 1,
+    "health": 1,
+    "description": "When I'm summoned, create a <link=card.create><style=AssociatedCard>Duskpetal Dust</style></link> in hand.",
+    "descriptionRaw": "When I'm summoned, create a Duskpetal Dust in hand.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Duskpetals bloom at night, and then only under a full moon. A proud symbol of the Lunari, we have used their dust for centuries, as only we know how to harvest them safely.\"",
+    "artistName": "JiHun Lee",
+    "name": "Lunari Duskbringer",
+    "cardCode": "03MT073",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "COMMON",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Unit",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03FR006T1",
+      "03FR006",
+      "03FR006T2"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03FR006T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03FR006T3-full.png"
+      }
+    ],
+    "region": "Freljord",
+    "regionRef": "Freljord",
+    "attack": 0,
+    "cost": 8,
+    "health": 0,
+    "description": "Give ALL units -3|-0 this round. Deal 3 to ALL units.\r\nShuffle a <link=card.level1><style=AssociatedCard>Trundle</style></link> into your deck.",
+    "descriptionRaw": "Give ALL units -3|-0 this round. Deal 3 to ALL units.\r\nShuffle a Trundle into your deck.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Bury 'em alive!\" - Trundle",
+    "artistName": "Kudos Productions",
+    "name": "Trundle's Icequake",
+    "cardCode": "03FR006T3",
+    "keywords": [
+      "Slow"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "Slow",
+    "spellSpeedRef": "Slow",
+    "rarity": "None",
+    "rarityRef": "None",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "Champion",
+    "type": "Spell",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT095.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT095-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 3,
+    "cost": 3,
+    "health": 3,
+    "description": "",
+    "descriptionRaw": "",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"So, there I was going 'bout my day, when in struts this fella packed to the gills with gold. Easy mark, eh? I sidle over, amp up the charm, and amp up the price. It's only when I put my coins away I realize the little scamp's paid me with my OWN money! The Trickster was shining bright that night, I tell ya.\" - Yordle Grifter",
+    "artistName": "Kudos Productions",
+    "name": "The Trickster",
+    "cardCode": "03MT095",
+    "keywords": [
+      "Elusive"
+    ],
+    "keywordRefs": [
+      "Elusive"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "None",
+    "rarityRef": "None",
+    "subtype": "CELESTIAL",
+    "subtypes": [
+      "CELESTIAL"
+    ],
+    "supertype": "",
+    "type": "Unit",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT027.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT027-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 3,
+    "health": 0,
+    "description": "Grant an ally +1|+2 and <link=keyword.Overwhelm><sprite name=Overwhelm><style=Keyword>Overwhelm</style></link>.\r\n<link=keyword.Daybreak><style=Keyword>Daybreak</style></link>: Draw a <link=card.me><style=AssociatedCard>Zenith Blade</style></link>.",
+    "descriptionRaw": "Grant an ally +1|+2 and Overwhelm.\r\nDaybreak: Draw a Zenith Blade.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Let the sun imbue you with Her strength!\" - Solari Priest",
+    "artistName": "Kudos Productions",
+    "name": "Zenith Blade",
+    "cardCode": "03MT027",
+    "keywords": [
+      "Slow"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "Slow",
+    "spellSpeedRef": "Slow",
+    "rarity": "COMMON",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Spell",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT084.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT084-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 5,
+    "health": 0,
+    "description": "<link=keyword.Invoke><style=Keyword>Invoke</style></link> a Celestial card that costs 7 or more, then heal an ally or your Nexus 5.",
+    "descriptionRaw": "Invoke a Celestial card that costs 7 or more, then heal an ally or your Nexus 5.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Look to the stars. If you're lucky, I'll look back.\" - Aurelion Sol",
+    "artistName": "Kudos Productions",
+    "name": "Starshaping",
+    "cardCode": "03MT084",
+    "keywords": [
+      "Burst"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "Burst",
+    "spellSpeedRef": "Burst",
+    "rarity": "COMMON",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Spell",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT016.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT016-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 2,
+    "cost": 2,
+    "health": 3,
+    "description": "",
+    "descriptionRaw": "",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Aww, big Stomper don't wanna go through the wittle portal? That's okay, we can-- HAHAHAHA! Just kidding. OUTYOUGO!\" - Zoe",
+    "artistName": "SIXMOREVODKA",
+    "name": "Startled Stomper",
+    "cardCode": "03MT016",
+    "keywords": [
+      "Overwhelm"
+    ],
+    "keywordRefs": [
+      "Overwhelm"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "COMMON",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Unit",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03FR006T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03FR006T1-full.png"
+      }
+    ],
+    "region": "Freljord",
+    "regionRef": "Freljord",
+    "attack": 0,
+    "cost": 8,
+    "health": 8,
+    "description": "<link=vocab.Play><style=Vocab>Play</style></link>: Refill 8 mana.\r\n<link=vocab.Play><style=Vocab>Play</style></link> and <link=vocab.RoundStart><style=Vocab>Round Start</style></link>: Give the <link=vocab.Strongest><style=Vocab>Strongest</style></link> enemy <link=keyword.Vulnerable><sprite name=Vulnerable><style=Keyword>Vulnerable</style></link> this round.",
+    "descriptionRaw": "Play: Refill 8 mana.\r\nPlay and Round Start: Give the Strongest enemy Vulnerable this round.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Haha! You didn't see that coming!\" - Trundle",
+    "artistName": "Kudos Productions",
+    "name": "Ice Pillar",
+    "cardCode": "03FR006T1",
+    "keywords": [
+      "Vulnerable"
+    ],
+    "keywordRefs": [
+      "Vulnerable"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "None",
+    "rarityRef": "None",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Unit",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03MT059"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT059T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT059T1-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 4,
+    "cost": 6,
+    "health": 3,
+    "description": "",
+    "descriptionRaw": "",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"...Though both were formed of cosmic light,\nThey fought, for they were too alike.\nAnd so these two split night from day,\nSo each could always have their way...\"\n- Hymn of the Hours",
+    "artistName": "Kudos Productions",
+    "name": "The Silver Sister",
+    "cardCode": "03MT059T1",
+    "keywords": [
+      "Elusive"
+    ],
+    "keywordRefs": [
+      "Elusive"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "None",
+    "rarityRef": "None",
+    "subtype": "CELESTIAL",
+    "subtypes": [
+      "CELESTIAL"
+    ],
+    "supertype": "",
+    "type": "Unit",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03MT056",
+      "03MT056T1",
+      "03MT056"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT056T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT056T2-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 2,
+    "health": 0,
+    "description": "Give an ally +2|+1 this round. Shuffle a <link=card.level1><style=AssociatedCard>Diana</style></link> into your deck.\r\n<link=keyword.Nightfall><style=Keyword>Nightfall</style></link>: Draw 1.",
+    "descriptionRaw": "Give an ally +2|+1 this round. Shuffle a Diana into your deck.\r\nNightfall: Draw 1.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Under cover of night, watched over by a pale moon.\" - Diana",
+    "artistName": "Kudos Productions",
+    "name": "Diana's Pale Cascade",
+    "cardCode": "03MT056T2",
+    "keywords": [
+      "Burst"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "Burst",
+    "spellSpeedRef": "Burst",
+    "rarity": "None",
+    "rarityRef": "None",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "Champion",
+    "type": "Spell",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT035.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT035-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 2,
+    "health": 0,
+    "description": "Give an ally +2|+1 this round.\r\n<link=keyword.Nightfall><style=Keyword>Nightfall</style></link>: Draw 1.",
+    "descriptionRaw": "Give an ally +2|+1 this round.\r\nNightfall: Draw 1.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"Under cover of night, watched over by a pale moon.\" - Diana",
+    "artistName": "Kudos Productions",
+    "name": "Pale Cascade",
+    "cardCode": "03MT035",
+    "keywords": [
+      "Burst"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "Burst",
+    "spellSpeedRef": "Burst",
+    "rarity": "COMMON",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Spell",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03IO018.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03IO018-full.png"
+      }
+    ],
+    "region": "Ionia",
+    "regionRef": "Ionia",
+    "attack": 3,
+    "cost": 4,
+    "health": 3,
+    "description": "When I'm supported, give me +0|+3 this round.\r\n<link=vocab.Support><style=Vocab>Support</style></link>: Give my supported ally +3|+0 this round.",
+    "descriptionRaw": "When I'm supported, give me +0|+3 this round.\r\nSupport: Give my supported ally +3|+0 this round.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "The purple faefolk are sweet little creatures, and cared for by all those who encounter them. Well, almost all.",
+    "artistName": "Dao Le",
+    "name": "Fuzzy Caretaker",
+    "cardCode": "03IO018",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "RARE",
+    "rarityRef": "Rare",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Unit",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT003T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT003T1-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 3,
+    "health": 0,
+    "description": "Draw 2 different Dragons.",
+    "descriptionRaw": "Draw 2 different Dragons.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Dragon egg (Screeching Dragon, Draco murmurationis)\nNotes: Shell weakened on last turning. Increased movement inside. Cracks on surface superficial?\nScribbled Notes: EGG HATCHING!\n- Notes of Anden Mayne, Egghead Researcher",
+    "artistName": "Kudos Productions",
+    "name": "Hatched Egg",
+    "cardCode": "03MT003T1",
+    "keywords": [
+      "Burst"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "Burst",
+    "spellSpeedRef": "Burst",
+    "rarity": "COMMON",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Spell",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT090.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT090-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 4,
+    "cost": 1,
+    "health": 1,
+    "description": "",
+    "descriptionRaw": "",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"The gold of the sun adorns his horns, and its fire lights his heart. Let the thunder of our shields ring out like the thunder of his hooves across the horizon!\" - Solari battle prayer",
+    "artistName": "Kudos Productions",
+    "name": "The Charger",
+    "cardCode": "03MT090",
+    "keywords": [
+      "Overwhelm"
+    ],
+    "keywordRefs": [
+      "Overwhelm"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "None",
+    "rarityRef": "None",
+    "subtype": "CELESTIAL",
+    "subtypes": [
+      "CELESTIAL"
+    ],
+    "supertype": "",
+    "type": "Unit",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03SI010.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03SI010-full.png"
+      }
+    ],
+    "region": "Shadow Isles",
+    "regionRef": "ShadowIsles",
+    "attack": 2,
+    "cost": 5,
+    "health": 5,
+    "description": "<link=keyword.Nightfall><style=Keyword>Nightfall</style></link>: Grant me +1|+0 for each time we've activated <link=keyword.Nightfall><style=Keyword>Nightfall</style></link> this game. <style=Variable></style>",
+    "descriptionRaw": "Nightfall: Grant me +1|+0 for each time we've activated Nightfall this game. ",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "With every setting sun, the night unfurls its dark wings, and blots out the day's last remnants of hope.",
+    "artistName": "SIXMOREVODKA",
+    "name": "Duskrider",
+    "cardCode": "03SI010",
+    "keywords": [
+      "Fearsome"
+    ],
+    "keywordRefs": [
+      "Fearsome"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "RARE",
+    "rarityRef": "Rare",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Unit",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT036.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT036-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 5,
+    "health": 0,
+    "description": "Grant an ally +3|+3.",
+    "descriptionRaw": "Grant an ally +3|+3.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"A little something from Targon.\" - Taric",
+    "artistName": "Max Grecke",
+    "name": "Blessing of Targon",
+    "cardCode": "03MT036",
+    "keywords": [
+      "Burst"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "Burst",
+    "spellSpeedRef": "Burst",
+    "rarity": "RARE",
+    "rarityRef": "Rare",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Spell",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT003T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT003T2-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 3,
+    "health": 0,
+    "description": "Grant Dragon allies +1|+1.",
+    "descriptionRaw": "Grant Dragon allies +1|+1.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "Dragon egg (Screeching Dragon, Draco murmurationis)\nNotes: Shell weakened on last turning. Increased movement inside. Cracks on surface superficial?\nScribbled Notes: EGG HATCHING!\n- Notes of Anden Mayne, Egghead Researcher",
+    "artistName": "Kudos Productions",
+    "name": "Crushed Egg",
+    "cardCode": "03MT003T2",
+    "keywords": [
+      "Burst"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "Burst",
+    "spellSpeedRef": "Burst",
+    "rarity": "COMMON",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "Spell",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT039.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/en_us/img/cards/03MT039-full.png"
+      }
+    ],
+    "region": "Targon",
+    "regionRef": "Targon",
+    "attack": 1,
+    "cost": 1,
+    "health": 1,
+    "description": "",
+    "descriptionRaw": "",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "In space, no one can hear you squee.",
+    "artistName": "Dao Le",
+    "name": "Porofly",
+    "cardCode": "03MT039",
+    "keywords": [
+      "SpellShield"
+    ],
+    "keywordRefs": [
+      "SpellShield"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "COMMON",
+    "rarityRef": "Common",
+    "subtype": "PORO",
+    "subtypes": [
+      "PORO"
+    ],
+    "supertype": "",
+    "type": "Unit",
+    "collectible": true,
+    "set": "Set3"
+  }
+]
