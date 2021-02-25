@@ -70,9 +70,3 @@ print(draven_deck.encode().deck_code)
 print(draven_deck.to_deck_code())
 # result: CEBAGAIDCQRSOCQBAQAQYDISDQTCOKBNGQAACAIBAMFQ
 ```
-
-
-## Client API Wrapper
-comming soon...
-
-

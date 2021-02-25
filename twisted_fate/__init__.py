@@ -1,5 +1,5 @@
 name = "twisted_fate"
-__version__ = "0.1.4"
+__version__ = "0.1.5"
 from .api_wrapper.deck import Deck
 from .api_wrapper.card import Card
 from .api_wrapper.active_game import Game, GameFrame, Screen
